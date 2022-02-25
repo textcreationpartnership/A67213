@@ -1,0 +1,1742 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The humble petition and remonstrance of Richrd [sic] Wylde, merchant and adventurer in the East-India trade laying open the many wilfull neglects, ill-managed actions and improvident courses, the governors and committees of the East-India Company, have heretofore, and still do practice in all their way of trade to the East-Indies, to the exceeding great prejudice of the adventurer and nation in generall. Together with a narrative of the principall wrongs and injuries the Dutch have barbarously perpetrated upon the persons, ships and goods of the company in Amboyna, and other parts of India, as also the manner of trade to Potugals [sic] heretofore, and now the Dutch have, and doe practise, to their exceeding great increase of stock which our company would never be perswaded to follow, in so full and ample manner as they ought to have done.</title>
+            <author>[Wylde, Richard]</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1654</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 110 KB of XML-encoded text transcribed from 25 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A67213</idno>
+            <idno type="STC">Wing W3768</idno>
+            <idno type="STC">ESTC R221267</idno>
+            <idno type="EEBO-CITATION">99832601</idno>
+            <idno type="PROQUEST">99832601</idno>
+            <idno type="VID">37075</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A67213)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 37075)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2105:19)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The humble petition and remonstrance of Richrd [sic] Wylde, merchant and adventurer in the East-India trade laying open the many wilfull neglects, ill-managed actions and improvident courses, the governors and committees of the East-India Company, have heretofore, and still do practice in all their way of trade to the East-Indies, to the exceeding great prejudice of the adventurer and nation in generall. Together with a narrative of the principall wrongs and injuries the Dutch have barbarously perpetrated upon the persons, ships and goods of the company in Amboyna, and other parts of India, as also the manner of trade to Potugals [sic] heretofore, and now the Dutch have, and doe practise, to their exceeding great increase of stock which our company would never be perswaded to follow, in so full and ample manner as they ought to have done.</title>
+                  <author>[Wylde, Richard]</author>
+               </titleStmt>
+               <extent>[6], 39, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>Printed in the yeare 1654.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place of publication from Wing.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>East India Company --  Early works to 1800.</term>
+               <term>East India Company --  Administration --  Early works to 1800.</term>
+               <term>Trading companies --  Europe --  Early works to 1800.</term>
+               <term>Foreign trade promotion --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-05</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-07</date>
+            <label>Geremy Carnes</label>Sampled and proofread</change>
+         <change>
+            <date>2012-07</date>
+            <label>Geremy Carnes</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:37075:1"/>
+            <pb facs="tcp:37075:1" rendition="simple:additions"/>
+            <p>THE HUMBLE PETITION AND REMONSTRANCE OF <hi>RICHRD WYLDE,</hi> Merchant and Adventurer in the <hi>Eaſt-India</hi> Trade,</p>
+            <p>Laying open the many wilfull Neglects, Ill<g ref="char:EOLhyphen"/>manged Actions and Improvident Courſes, the Governors and Committees of the <hi>Eaſt-India</hi> Company, have heretofore, and ſtill do practice in all their way of Trade to the <hi>Eaſt</hi>-Indies, to the exceeding great prejudice of the Adventurer and Nation in generall.</p>
+            <p>TOGETHER WITH A Narrative of the principall Wrongs and Injuries the Dutch have barbarouſly perpetrated upon the Perſons, Ships and Goods of the Company in <hi>Amboyna,</hi> and other parts of <hi>INDIA;</hi>
+            </p>
+            <p>AS ALSO The manner of Trade the <hi>Potugals</hi> heretofore, and now the <hi>Dutch</hi> have, and doe practiſe, to their exceeding great increaſe of Stock which our Company would never be perſwaded to follow, in ſo full and ample manner as they ought to have done.</p>
+            <p>Printed in the yeare 1654</p>
+            <pb facs="tcp:37075:2" rendition="simple:additions"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb facs="tcp:37075:2"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+         </div>
+         <div type="author_to_Lord_Protector">
+            <pb facs="tcp:37075:3" rendition="simple:additions"/>
+            <pb facs="tcp:37075:3"/>
+            <head>TO HIS HIGHNESSE, <hi>OLIVER,</hi> Lord Protector of the Common-wealth of <hi>England, Scotland,</hi> and <hi>Ireland,</hi> and the Dominions there<g ref="char:EOLhyphen"/>to belonging.</head>
+            <head>The humble Petition of RICHARD WYLDE Merchant.</head>
+            <opener>Humbly ſheweth,</opener>
+            <p>
+               <hi>
+                  <seg rend="decorInit">T</seg>Hat whereas the Trade of the</hi> Eaſt-Indies <hi>was begum now 54. yeares paſt, and hath been continued ever ſince by a Company, and managed by Merchants, and other Citizens of</hi> London, <hi>for ſome yeares by Voyages, which diſcovering every day new Trades, pro<g ref="char:EOLhyphen"/>ving profitable, both to the Adventurers, and Nation in generall, gave encouragement to all degrees of People, to ſubſcribe a large Joynt Stock of above 1500 thouſand pounds, which for ſome yeares proſpered, untill after diſ<g ref="char:EOLhyphen"/>covery and ſetting a factory in</hi> Surrat, <hi>the trade of Silk of</hi> Perſia <hi>came known to us, and proved of very great con<g ref="char:EOLhyphen"/>ſequence, as to the expence of much broad cloath and other Manufactures of</hi> England, <hi>as alſo of many other of</hi> In<g ref="char:EOLhyphen"/>dia, <hi>(whereof the</hi> Portingalls, <hi>had then the whole trade to</hi>
+               <pb facs="tcp:37075:4"/> 
+               <hi>themſelves) which our</hi> Turkey Merchants <hi>envying more eſpecially this of the ſilke of</hi> Perſia, <hi>as fearing, that if the trade of</hi> India <hi>did thrive, and grow rich, it would bring all, or the greater part of the Silk of</hi> Perſia, <hi>by way of</hi> India, <hi>became therefore adventurers in the ſame ſtock: And the better to ſtrengthen their party, and get the ma<g ref="char:EOLhyphen"/>naging of the whole action unto themſelves by electing Al<g ref="char:EOLhyphen"/>dermen, and other rich</hi> Merchants <hi>Governours, Deputies, and commitees of their own ſociety, they carried all things to their own minds, even to the raining of four joynt ſtocks and as many, or more voyages by their wilfull neglects, im<g ref="char:EOLhyphen"/>provident courſes, and ill managed actions, As your High<g ref="char:EOLhyphen"/>neſs will perceive by the following Remonſtrance, wherein I have not only repreſented the ſaid Companies errors, but alſo ſhewed your Highneſs how thoſe might have bin, &amp; yet may be (if rightly manged made moſt rich, and profitable trades to this Nation, adding thereunto ſome of the moſt notorious wrongs, and injuries, the Dutch have perpetra<g ref="char:EOLhyphen"/>ted upon the perſons, ſhips and goods of our people in</hi> India, <hi>to the loſse of ſome Millions of pounds for many yeares paſt, and for ever hereafter, if your Highneſſe does not take the ſame into moſt ſerious conſieration, and make it a State Action, the beſt way of recovering from the Dutch, all, or at leaſt one third part of the</hi> Mollucca <hi>Iſlands, as our Juſt due, or at leaſt the third part of the Spices there<g ref="char:EOLhyphen"/>on, according to the Contract made in 1619. with ſatisfa<g ref="char:EOLhyphen"/>ction for their long detention of the ſaid Spices from our Company; which Compoſition, if ſtrongly preſt, (as it de<g ref="char:EOLhyphen"/>ſerves) may be ſuch as may give reaſonable ſatisfaction to the Company, and a large proportion of Stock to proſecute all thoſe rich Trades of</hi> India, Perſia, Arabia, Mollucca Iſlands, Manillios, China, and Japon, <hi>to the great in<g ref="char:EOLhyphen"/>creaſe of Treaſure to your Highneſſe's Eachequer, and Stock of the Nation, or by laying it open and free for every ſub<g ref="char:EOLhyphen"/>ject
+<pb facs="tcp:37075:4"/> of</hi> England, &amp;c. <hi>that hath a minde to trade into <gap reason="illegible" resp="#MURP" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> parts, being regulated by Agents and Conſulls, as your Highneſſe ſhall pleaſe to appoint in every principall Port, as are the</hi> Turkie <hi>and</hi> Muſcovia <hi>Merchauts, that ſo eve<g ref="char:EOLhyphen"/>ry man may be Maſter of his own Goods, both abroad and at home, and diſpoſe of them at his owne pleaſure; and not to be tyed to joynt Stocks, as hitherto, which as they are the worſt of Monopolies, ſo are they little better than Cheats to the Adventurers and Nation, whereof this is the greateſt as will appeare by the following Diſcourſe.</hi>
+            </p>
+            <p>
+               <hi>Your Pet therefore doth (in the behalf of the whole Nation) most humbly intreat your Highneſſe to take the ſame into your grave &amp; wiſe Conſideration, That if upon due exami<g ref="char:EOLhyphen"/>nation, the Trade be found profitable to the Nation, by ma<g ref="char:EOLhyphen"/>king it a State Action, or laying it open and free for one ſeven yeares experience, it may be ſupported in a full and plentifull way of trade; if otherwiſe it prove not ſuch, it may be ſuppreſſed and quite given over.</hi>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <div type="part">
+               <pb facs="tcp:37075:5"/>
+               <opener>
+                  <salute>
+                     <pb n="1" facs="tcp:37075:5"/>SIR,</salute>
+               </opener>
+               <p>
+                  <seg rend="decorInit">A</seg>S the trade of <hi>India,</hi> in former times, when we had Wars with the <hi>Portugals,</hi> did re<g ref="char:EOLhyphen"/>quire a greater number of Shipping, then now that we have peace with them; ſo did thoſe many, and great Shipping, re<g ref="char:EOLhyphen"/>quire a farre larger ſtock to maintaine their great charge and expence; who of neceſſity were forced to ſpend two, if not three years in that Countrey, which could not well be done, but by ſufficient Stock, to be ſent out upon them for trade between Port and Port, in <hi>India</hi> it ſelfe: whereunto the Court of Committees of our <hi>Eaſt India</hi> Company, would never be perſwaded, nor yet to follow the ſame in ſo full and ample manner, as might be able to beare ſo great a charge; Notwith<g ref="char:EOLhyphen"/>ſtanding the many and earneſt advices and ſolicitations of their Servants, and Factors, both from <hi>Surrat, Bantam, Perſia,</hi> 
+                  <note place="margin">Factors ſ<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>lici<g ref="char:EOLhyphen"/>tations for in<g ref="char:EOLhyphen"/>creaſe of Stock, for Trade from Port to Po<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>t, not <gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>eliſhed.</note> 
+                  <hi>Muſlapatan,</hi> and <hi>Macaſſar,</hi> from whence all the beſt commo<g ref="char:EOLhyphen"/>dities for Trade were to be provided, and which did yeild at leaſt 2. 3. ſome 4. for one, within the compaſſe of one Mon<g ref="char:EOLhyphen"/>ſoon or ſixe Months time, as by their owne Accompts, and Letters, (if duly examined) will plainly appear.</p>
+               <p>Now for as much as I have not the accompts of what paſſed <note place="margin">Abſtract of <gap reason="illegible" resp="#MURP" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>x years disbu<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ſe<g ref="char:EOLhyphen"/>men<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> in <hi>I<gap reason="illegible" resp="#MURP" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>dia,</hi> what St<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ck ſent out, and what promiſed for the future.</note> in <hi>Surrat</hi> before, and ſince my being there, nor yet have ſeen thoſe at <hi>Bantam;</hi> I cannot, nor will not, deliver any thing as from my owne experience, but ſhall referre them to their own Accompts and Letters from thoſe parts, which will ſufficiently
+<pb n="2" facs="tcp:37075:6"/> Prove, what I have aſſerted. Yet for the ſixe yeares, and an half, I was in <hi>Surrat,</hi> I ſhall deliver a true abſtract of Stock yearly ſent thither, every yeares charges and expences, toge<g ref="char:EOLhyphen"/>ther with every years returnes from <hi>Surrat,</hi> whereby your Highneſſe will plainly ſee, what wilfull and improvident courſes, thoſe grave and wiſe men, that governed at the Helme of that action, did ſteer, to the great loſſe and hinderance of the Ge<g ref="char:EOLhyphen"/>nerall Adventurers, (though to their owne private ends, e<g ref="char:EOLhyphen"/>nough advantageous)in the interim, not letting to make great ſhewes of reall intentions to follow that Trade, in a more full and ample manner than formerly; as by an Order and Com<g ref="char:EOLhyphen"/>mand by their Letters, of the 16. of <hi>March,</hi> 1624. to provide Goods in <hi>Surrat,</hi> to the value of 141447 l. 10 s. 00 <hi>d.</hi> for yearely returnes for <hi>England</hi> onely; which with charges there, would have coſt at leaſt 160000 l. ſtarling, the partiulars whereof, I forbear to inſert here, to avoide your Highneſſe trouble, as not materiall unto the worke in hand.</p>
+               <p>To performe all which, they ſent out the ſame yeare, but 36000l. in Goods and Monies, earneſtly requiring by their ſaid Letters, that all the ſaid goods, might be provided every yeare for Annuall returnes for <hi>England,</hi> and which was performed moſt yeares at high Intereſt, of 13. and 14. <hi>per cent.</hi> whereof they had notice every yeare, both by Letters and Accompts, yet did they not ſend out ſufficient Stock, to pay that great de<g ref="char:EOLhyphen"/>vouring debt, but let it continue 11. or 12. yeares unpaid, to the great hinderance of the Generall Adventurers, ignorant of their wilfull intentions, as to the ruine of that ſecond, and great joynt Stock, by their ill-managing thereof; which, that it may moſt clearly appear to your Highneſſe, I will give you the abſtract of all disburſements in <hi>India,</hi> what the Company ſent out every yeare, as alſo what returnes they had thence, for the ſixe yeares I was in <hi>India.</hi>
+               </p>
+               <pb n="3" facs="tcp:37075:6"/>
+               <p>
+                  <table>
+                     <head>In Aprill 1624.</head>
+                     <row>
+                        <cell> </cell>
+                        <cell> </cell>
+                        <cell role="label">
+                           <hi>l.</hi>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>The Company ſent out upon foure Ships and two Pinnaces, in Goods and Moneys, 62000 l. as ap<g ref="char:EOLhyphen"/>peares by that yeares account</hi>
+                           <note place="margin">
+                              <table>
+                                 <row>
+                                    <cell role="label">Sh.</cell>
+                                    <cell role="label">Tun.</cell>
+                                 </row>
+                                 <row>
+                                    <cell>
+                                       <hi>James</hi>
+                                    </cell>
+                                    <cell>1000</cell>
+                                 </row>
+                                 <row>
+                                    <cell>
+                                       <hi>Ionah</hi>
+                                    </cell>
+                                    <cell>800</cell>
+                                 </row>
+                                 <row>
+                                    <cell>
+                                       <hi>Star</hi>
+                                    </cell>
+                                    <cell>400</cell>
+                                 </row>
+                                 <row>
+                                    <cell>
+                                       <hi>Eagle</hi>
+                                    </cell>
+                                    <cell>300</cell>
+                                 </row>
+                                 <row>
+                                    <cell>
+                                       <hi>Spie</hi>
+                                    </cell>
+                                    <cell>40</cell>
+                                 </row>
+                                 <row>
+                                    <cell>
+                                       <hi>Scout</hi>
+                                    </cell>
+                                    <cell>30</cell>
+                                 </row>
+                                 <row>
+                                    <cell> </cell>
+                                    <cell role="total">2570</cell>
+                                 </row>
+                              </table>
+                           </note>
+                        </cell>
+                        <cell> </cell>
+                        <cell>62000</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Whereof was ſent to</hi> Perſia, <hi>in Money and Goods</hi>
+                        </cell>
+                        <cell>6225</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>And to</hi> Mocha <hi>in in the</hi> Red Sea, <hi>in Goods</hi>
+                        </cell>
+                        <cell>725</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>And to</hi> Bantam <hi>in Goods for</hi> Macaſſer, <hi>&amp;c.</hi>
+                        </cell>
+                        <cell>7768</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>And to</hi> Muſlapatan <hi>by Exchange</hi>
+                        </cell>
+                        <cell>126</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>And to</hi> Acheen, <hi>and thence to</hi> Bantam</cell>
+                        <cell>5359</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>And for</hi> England <hi>upon the</hi> Star, <hi>beſides what was ſent upon the</hi> William <hi>and</hi> Bleſ<g ref="char:EOLhyphen"/>ſing <hi>the ſame yeare, on former account</hi>
+                        </cell>
+                        <cell>14050</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Disburſt for Cuſtomes in and out in</hi> Surrat</cell>
+                        <cell>7786</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>By Charge Merchandiſe in all ther Factories</hi>
+                        </cell>
+                        <cell>5097</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>By Ships expences for Proviſions</hi>
+                        </cell>
+                        <cell>5985</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>By Houſe-expences, and Houſe-rent in all the Factories</hi>
+                        </cell>
+                        <cell>2945</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>By Factors Wages on the Shore</hi>
+                        </cell>
+                        <cell>2230</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>The whole Disburſments in <hi>Surrat</hi> this year is</cell>
+                        <cell role="total">58296.</cell>
+                        <cell>58296</cell>
+                     </row>
+                     <row>
+                        <cell>And there remained for Inveſtments for <hi>En<g ref="char:EOLhyphen"/>gland</hi> the next year, but</cell>
+                        <cell> </cell>
+                        <cell role="total">3703</cell>
+                     </row>
+                  </table>
+               </p>
+               <p>Yet, did the Preſident and Counſell ſend home upon the <hi>James</hi> and <hi>Jonah,</hi> next yeare, Goods to the value of 80000 <hi>l.</hi> in <hi>India,</hi> though at high Intereſt, whereby may be obſerved the improvident way of Trade the Managers of that Action did run here at home, notwithſtanding the ſe<g ref="char:EOLhyphen"/>cond and great Joynt Stock of ſixteene hundred thouſand pound then in being.</p>
+               <pb n="4" facs="tcp:37075:7"/>
+               <p>
+                  <table>
+                     <head>
+                        <hi>In April</hi> 1625.</head>
+                     <row>
+                        <cell> </cell>
+                        <cell> </cell>
+                        <cell role="label">
+                           <hi>l.</hi>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <note place="margin">1625. <hi>James</hi> &amp; <hi>Jonab</hi> ſent home with Goods, which coſt in <hi>India</hi> a<g ref="char:EOLhyphen"/>bove 80000 l. <hi>Saerl.</hi>
+                           </note>
+                           <hi>The Company ſent out upon four Ships in Goods and Moneys 36000 l. but by accident there came to</hi> Surrat <hi>that yeare in Money and Goods from</hi> England, <hi>but</hi>
+                        </cell>
+                        <cell> </cell>
+                        <cell>10500</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>And from</hi> Mocha <hi>in the</hi> Red Sea <hi>upon the Ship</hi> Ann's <hi>account</hi>
+                        </cell>
+                        <cell> </cell>
+                        <cell>2613</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>From</hi> Bantam <hi>in Goods and Ryalls of Eight</hi>
+                        </cell>
+                        <cell> </cell>
+                        <cell>27448</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Received in all for this years Inveſtments in Goods for</hi> England<note place="margin">
+                              <table>
+                                 <row>
+                                    <cell role="label">Ships</cell>
+                                    <cell role="label">Tuns</cell>
+                                 </row>
+                                 <row>
+                                    <cell>
+                                       <hi>Palſgrave</hi>
+                                    </cell>
+                                    <cell>800</cell>
+                                 </row>
+                                 <row>
+                                    <cell>
+                                       <hi>Dolphin</hi>
+                                    </cell>
+                                    <cell>600</cell>
+                                 </row>
+                                 <row>
+                                    <cell>
+                                       <hi>Lyon</hi>
+                                    </cell>
+                                    <cell>400</cell>
+                                 </row>
+                                 <row>
+                                    <cell>
+                                       <hi>Faulcon</hi>
+                                    </cell>
+                                    <cell>250</cell>
+                                 </row>
+                                 <row>
+                                    <cell> </cell>
+                                    <cell role="total">2050.</cell>
+                                 </row>
+                              </table>
+                           </note>
+                        </cell>
+                        <cell> </cell>
+                        <cell role="total">40561</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Whereof was ſent to</hi> Bantam <hi>in Goods and Mo<g ref="char:EOLhyphen"/>ney</hi>
+                        </cell>
+                        <cell>1792</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>And to</hi> Perſia <hi>in Goods and Money</hi>
+                        </cell>
+                        <cell>3445</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Diſburſt in</hi> Surrat, &amp;c. <hi>for Cuſtomes in and out</hi>
+                        </cell>
+                        <cell>5510</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>In Charge Merchandiſe in all the Factories</hi>
+                        </cell>
+                        <cell>7998</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>In Ships expences for Proviſions</hi>
+                        </cell>
+                        <cell>6318</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>In Houſe expences 2500 l. and Factors wages 1332 l in all, is</hi>
+                        </cell>
+                        <cell>3832</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>In Houſe-rent, and</hi> Kiſhme <hi>Caſtle 401 l. in Preſents 633 l. in all</hi>
+                        </cell>
+                        <cell>1034</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>Disburſt in <hi>Surrat</hi> this yeare</cell>
+                        <cell role="total">29929.</cell>
+                        <cell>29929</cell>
+                     </row>
+                     <row>
+                        <cell>And there remained for Inveſtments for next yeare for <hi>England</hi>
+                        </cell>
+                        <cell> </cell>
+                        <cell role="total">10632</cell>
+                     </row>
+                  </table>
+               </p>
+            </div>
+            <div type="part">
+               <p>
+                  <table>
+                     <head>
+                        <hi>In Aprill</hi> 1626.</head>
+                     <row>
+                        <cell>
+                           <hi>The Company ſent out upon five Ships in Goods and Moneys from</hi> England<note place="margin">
+                              <table>
+                                 <row>
+                                    <cell role="label">Sh.</cell>
+                                    <cell role="label">Tu.</cell>
+                                 </row>
+                                 <row>
+                                    <cell>
+                                       <hi>William</hi>
+                                    </cell>
+                                    <cell>800</cell>
+                                 </row>
+                                 <row>
+                                    <cell>
+                                       <hi>Bleſſing</hi>
+                                    </cell>
+                                    <cell>800</cell>
+                                 </row>
+                                 <row>
+                                    <cell>
+                                       <hi>Diſcovery</hi>
+                                    </cell>
+                                    <cell>600</cell>
+                                 </row>
+                                 <row>
+                                    <cell>
+                                       <hi>Maurice</hi>
+                                    </cell>
+                                    <cell>500</cell>
+                                 </row>
+                                 <row>
+                                    <cell>
+                                       <hi>Chriſtoph.</hi>
+                                    </cell>
+                                    <cell>400</cell>
+                                 </row>
+                                 <row>
+                                    <cell> </cell>
+                                    <cell role="total">3150.</cell>
+                                 </row>
+                              </table>
+                           </note>
+                        </cell>
+                        <cell> </cell>
+                        <cell>90710</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>And by the</hi> Palſgrave <hi>and</hi> Dolphin, <hi>who were beaten from their Port the laſt yeare by the</hi> Portugals, <hi>in Goods and Money, as appeares</hi>
+                        </cell>
+                        <cell> </cell>
+                        <cell>25486</cell>
+                     </row>
+                     <row>
+                        <cell>In all for this years Inveſtments</cell>
+                        <cell> </cell>
+                        <cell role="total">116196</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Summe carried over to the outward Marg.</hi>
+                        </cell>
+                        <cell> </cell>
+                        <cell>116196</cell>
+                     </row>
+                  </table>
+                  <pb n="5" facs="tcp:37075:7"/>
+                  <table>
+                     <row>
+                        <cell>
+                           <hi>Summe brought over from the outward Margent</hi>
+                        </cell>
+                        <cell> </cell>
+                        <cell>116196.</cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell role="label">
+                           <hi>l.</hi>
+                        </cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Whereof was ſent to</hi> Bantam <hi>and</hi> Muſlapatan <hi>in Goods</hi>
+                        </cell>
+                        <cell>19413</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>And to</hi> Perſia <hi>in Goods and Moneys</hi>
+                        </cell>
+                        <cell>39265</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Diſburſt in Surrat for Cuſtomes in and out</hi>
+                        </cell>
+                        <cell>5817</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>In Charge Merchandiſe in ſundry Factories</hi>
+                        </cell>
+                        <cell>4152</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>By Factors wages on Shore</hi>
+                        </cell>
+                        <cell>1350</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>By Houſe-rent in all their Factories</hi>
+                        </cell>
+                        <cell>265</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>By Ships expences for Proviſions</hi>
+                        </cell>
+                        <cell>4876</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>By Preſent in all their Factories</hi>
+                        </cell>
+                        <cell>698</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>By Houſe expences in all their Factories</hi>
+                        </cell>
+                        <cell>2256</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>Summes disburſt in <hi>Surrat</hi> is</cell>
+                        <cell role="total">78092.</cell>
+                        <cell>78092</cell>
+                     </row>
+                     <row>
+                        <cell>And there remained for inveſtments for the next year</cell>
+                        <cell> </cell>
+                        <cell role="total">381<gap reason="illegible" resp="#MURP" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>4</cell>
+                     </row>
+                  </table>
+               </p>
+               <p>This yeare 1626. the <hi>Dolphin</hi> was promiſed to be ſent home, <note place="margin">No ſhip ſent home this year, though fairely promiſed. And Goods enough in a readineſs for 1. Ships lading, and 8. Ships in Port.
+<table>
+                        <row>
+                           <cell role="label">Sh.</cell>
+                           <cell role="label">Tun.</cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi>Pallgrave</hi>
+                           </cell>
+                           <cell>800</cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi>William</hi>
+                           </cell>
+                           <cell>800</cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi>Bleſſing</hi>
+                           </cell>
+                           <cell>800</cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi>Dolphin</hi>
+                           </cell>
+                           <cell>600</cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi>Diſcovery</hi>
+                           </cell>
+                           <cell>600</cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi>Maurice</hi>
+                           </cell>
+                           <cell>500</cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi>Chriſtoph.</hi>
+                           </cell>
+                           <cell>450</cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi>Faulcon</hi>
+                           </cell>
+                           <cell>250</cell>
+                        </row>
+                        <row>
+                           <cell> </cell>
+                           <cell role="total">4800.</cell>
+                        </row>
+                     </table>
+                  </note> there being at leaſt <gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>600. Bales of Goods ready houſed in <hi>Sur<g ref="char:EOLhyphen"/>rat</hi> and <hi>Raneale,</hi> beſides Pepper, notwithſtanding all which, there was ſent home no Ship that yeare, to the great hinde<g ref="char:EOLhyphen"/>rance and diſheartening of the Generall Adventurers, as ap<g ref="char:EOLhyphen"/>peares by the Companies Letters of the 12. of <hi>March</hi> 1627. wherein they did heavily complaine for want of Returnes that yeare, by which it may be probably conjectured, there had ſome private order been given from ſome particular Commit<g ref="char:EOLhyphen"/>tees, not to ſend any <hi>Indicoe</hi> home that yeare, elſe could it not poſſible be, that having eight great Ships in Ports, idle, and without imployment, and ſo many Goods in a readineſſe, which loſt one whole yeares returne, to the no ſmall prejudice of the <hi>Adventurers,</hi> there ſhould be committed ſo great an overſight, and after ſo great and juſt complaints, not to be queſtioned for it at coming home, when my ſelfe, who ſucceeded him, upon
+<pb n="6" facs="tcp:37075:8"/> receipt of thoſe complaining Letters, endeavouring to ſalve up that errour, and reincourage the Adventurers, did engage my ſelfe at Intereſt, for upwards of 120 thouſand pounds, and ſent and brought them home upon eight great Ships the two fol<g ref="char:EOLhyphen"/>lowing yeares, Goods which coſt in India upwards of 210 thouſand pounds, was for the ſame cauſe, and no other, ſent for home in a diſgracefull manner, as I ſhall in its due place make knowne, to the admiration and wonderment of all the generall Adventurers.</p>
+               <p>
+                  <table>
+                     <head>
+                        <hi>In April</hi> 1627.</head>
+                     <row>
+                        <cell> </cell>
+                        <cell> </cell>
+                        <cell role="label">
+                           <hi>l.</hi>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>The Company ſent out in ſix Ships for</hi> Surrat <hi>in Money and Goods</hi>
+                           <note place="margin">
+                              <table>
+                                 <row>
+                                    <cell role="label">Sh.</cell>
+                                    <cell role="label">Tun.</cell>
+                                 </row>
+                                 <row>
+                                    <cell>
+                                       <hi>Ma<gap reason="illegible" resp="#MURP" extent="1 letter">
+                                             <desc>•</desc>
+                                          </gap>y</hi>
+                                    </cell>
+                                    <cell>1000.</cell>
+                                 </row>
+                                 <row>
+                                    <cell>
+                                       <hi>Hart</hi>
+                                    </cell>
+                                    <cell>600</cell>
+                                 </row>
+                                 <row>
+                                    <cell>
+                                       <hi>Star</hi>
+                                    </cell>
+                                    <cell>400</cell>
+                                 </row>
+                                 <row>
+                                    <cell>
+                                       <hi>Hopewell</hi>
+                                    </cell>
+                                    <cell>250</cell>
+                                 </row>
+                                 <row>
+                                    <cell>
+                                       <hi>
+                                          <gap reason="illegible" resp="#MURP" extent="2 letters">
+                                             <desc>••</desc>
+                                          </gap>fuge</hi>
+                                    </cell>
+                                    <cell>150</cell>
+                                 </row>
+                                 <row>
+                                    <cell>
+                                       <hi>Scout</hi>
+                                    </cell>
+                                    <cell>30</cell>
+                                 </row>
+                                 <row>
+                                    <cell> </cell>
+                                    <cell role="total">2430.</cell>
+                                 </row>
+                              </table>
+                           </note>
+                        </cell>
+                        <cell> </cell>
+                        <cell>64700</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>And from</hi> Bantam <hi>was ſent in Goods</hi>
+                        </cell>
+                        <cell> </cell>
+                        <cell>6541</cell>
+                     </row>
+                     <row>
+                        <cell>In all</cell>
+                        <cell> </cell>
+                        <cell role="total">71241</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Whereof was ſent to</hi> Perſia <hi>in Goods and Money</hi>
+                        </cell>
+                        <cell>4077</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>And to</hi> Bantam <hi>in Goods</hi>
+                        </cell>
+                        <cell>11889</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>And to</hi> Mocha <hi>in the</hi> Red Sea, <hi>in Goods</hi>
+                        </cell>
+                        <cell>6094</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Diſburſt in</hi> Surrat <hi>for Cuſtomes in and out</hi>
+                        </cell>
+                        <cell>4763</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>By Ships expences for Proviſions</hi>
+                        </cell>
+                        <cell>5626</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>By Houſe expences in all the Factories</hi>
+                        </cell>
+                        <cell>3916</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>By Houſe rent in all the Factories</hi>
+                        </cell>
+                        <cell>360</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>By Charge Merchandiſe in all the Factories</hi>
+                        </cell>
+                        <cell>10352</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>By Factors wages on the Shore</hi>
+                        </cell>
+                        <cell>1350</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>By Preſents in all the Factories</hi>
+                        </cell>
+                        <cell>2964</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>Disburſed in all</cell>
+                        <cell role="total">51391.</cell>
+                        <cell>51391</cell>
+                     </row>
+                     <row>
+                        <cell>And there remained for Inveſt<g ref="char:EOLhyphen"/>ments for the next yeare</cell>
+                        <cell> </cell>
+                        <cell role="total">19850</cell>
+                     </row>
+                     <row>
+                        <cell role="label" cols="3">
+                           <hi>January</hi> 1627.</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>And the ſame yeare was ſent home upon three Ships, Goods which coſt</hi>
+                           <note place="margin">
+                              <table>
+                                 <row>
+                                    <cell role="label">Sh.</cell>
+                                    <cell role="label">Tun.</cell>
+                                 </row>
+                                 <row>
+                                    <cell>
+                                       <hi>Palſgrave</hi>
+                                    </cell>
+                                    <cell>800</cell>
+                                 </row>
+                                 <row>
+                                    <cell>
+                                       <hi>Dolphin</hi>
+                                    </cell>
+                                    <cell>600</cell>
+                                 </row>
+                                 <row>
+                                    <cell>
+                                       <hi>Diſcovery</hi>
+                                    </cell>
+                                    <cell>600</cell>
+                                 </row>
+                                 <row>
+                                    <cell>
+                                       <hi>William</hi>
+                                    </cell>
+                                    <cell>800</cell>
+                                 </row>
+                                 <row>
+                                    <cell> </cell>
+                                    <cell role="total">2800</cell>
+                                 </row>
+                              </table>
+                           </note>
+                        </cell>
+                        <cell> </cell>
+                        <cell>90569</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>And in</hi> April <hi>following, upon the Ship</hi> Wil<g ref="char:EOLhyphen"/>liam, <hi>Goods which coſt</hi>
+                        </cell>
+                        <cell> </cell>
+                        <cell>71816</cell>
+                     </row>
+                     <row>
+                        <cell>Sent home this yeare</cell>
+                        <cell> </cell>
+                        <cell role="total">162385</cell>
+                     </row>
+                     <pb n="7" facs="tcp:37075:8"/>
+                  </table>
+                  <table>
+                     <head>
+                        <hi>In April</hi> 1628.</head>
+                     <row>
+                        <cell> </cell>
+                        <cell> </cell>
+                        <cell role="label">
+                           <hi>l.</hi>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>The Company ſent out two Ships to</hi> Surrat <hi>in Goods and Moneys</hi>
+                           <note place="margin">
+                              <table>
+                                 <row>
+                                    <cell role="label">Sh.</cell>
+                                    <cell role="label">Tun.</cell>
+                                 </row>
+                                 <row>
+                                    <cell>
+                                       <hi>Iona</hi>
+                                    </cell>
+                                    <cell>800</cell>
+                                 </row>
+                                 <row>
+                                    <cell>
+                                       <hi>Expodition</hi>
+                                    </cell>
+                                    <cell>350</cell>
+                                 </row>
+                                 <row>
+                                    <cell> </cell>
+                                    <cell role="total">1150.</cell>
+                                 </row>
+                              </table>
+                           </note>
+                        </cell>
+                        <cell> </cell>
+                        <cell>61345</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>And from</hi> Bantam <hi>was ſent in Goods</hi>
+                        </cell>
+                        <cell> </cell>
+                        <cell>7378</cell>
+                     </row>
+                     <row>
+                        <cell>In all</cell>
+                        <cell> </cell>
+                        <cell role="total">68723</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Whereof was ſent for</hi> Perſia <hi>in Goods and Moneys</hi>
+                        </cell>
+                        <cell>6400</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>And to</hi> Mocha, <hi>in the</hi> Red Sea, <hi>in Goods</hi>
+                        </cell>
+                        <cell>2800</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Diſburſt in</hi> Surrat <hi>for Coſtomes in and out</hi>
+                        </cell>
+                        <cell>6676</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>By Ships expences for Proviſions</hi>
+                        </cell>
+                        <cell>3547</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>By Houſe expences in all the Factories</hi>
+                        </cell>
+                        <cell>1973</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>By Charge Merchandiſe in all the Factories</hi>
+                        </cell>
+                        <cell>3375</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>By Factors Wages on the Shore</hi>
+                        </cell>
+                        <cell>1225</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>By Houſe-rent in all the Factories</hi>
+                        </cell>
+                        <cell>165</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>By Preſents in all the Factories to the Governors</hi>
+                        </cell>
+                        <cell>910</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>Summe laid out</cell>
+                        <cell role="total">27071.</cell>
+                        <cell>27071</cell>
+                     </row>
+                     <row>
+                        <cell>And remained for Imploy<g ref="char:EOLhyphen"/>ment for the next year</cell>
+                        <cell> </cell>
+                        <cell role="total">41652</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>The ſame yeare in</hi> January 1628. <hi>on three Ships, and in</hi> April <hi>following, upon other three Ships, was ſent for</hi> England <hi>Goods for</hi>
+                           <note place="margin">
+                              <table>
+                                 <row>
+                                    <cell role="label">Sh.</cell>
+                                    <cell role="label">T.</cell>
+                                 </row>
+                                 <row>
+                                    <cell>
+                                       <hi>Ex<gap reason="illegible" resp="#MURP" extent="1 letter">
+                                             <desc>•</desc>
+                                          </gap>hange</hi>
+                                    </cell>
+                                    <cell>800</cell>
+                                 </row>
+                                 <row>
+                                    <cell>
+                                       <hi>Bleſſing</hi>
+                                    </cell>
+                                    <cell>800</cell>
+                                 </row>
+                                 <row>
+                                    <cell>
+                                       <hi>Sta<gap reason="illegible" resp="#MURP" extent="1 letter">
+                                             <desc>•</desc>
+                                          </gap>
+                                       </hi>
+                                    </cell>
+                                    <cell>400</cell>
+                                 </row>
+                                 <row>
+                                    <cell>
+                                       <hi>Hart</hi>
+                                    </cell>
+                                    <cell>600</cell>
+                                 </row>
+                                 <row>
+                                    <cell>
+                                       <hi>Expedition</hi>
+                                    </cell>
+                                    <cell>350</cell>
+                                 </row>
+                                 <row>
+                                    <cell>
+                                       <hi>Hopewell</hi>
+                                    </cell>
+                                    <cell>250</cell>
+                                 </row>
+                                 <row>
+                                    <cell> </cell>
+                                    <cell role="total">3200</cell>
+                                 </row>
+                              </table>
+                           </note>
+                        </cell>
+                        <cell> </cell>
+                        <cell>130000</cell>
+                     </row>
+                  </table>
+                  <table>
+                     <head>
+                        <hi>April</hi> 1629.</head>
+                     <row>
+                        <cell> </cell>
+                        <cell> </cell>
+                        <cell role="label">
+                           <hi>l.</hi>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>The Company ſent out upon the</hi> Charles, <hi>in Goods and Moneys</hi>
+                           <note place="margin">
+                              <table>
+                                 <row>
+                                    <cell role="label">Sh.</cell>
+                                    <cell role="label">Tun.</cell>
+                                 </row>
+                                 <row>
+                                    <cell>
+                                       <hi>Charles</hi>
+                                    </cell>
+                                    <cell>1000</cell>
+                                 </row>
+                              </table>
+                           </note>
+                        </cell>
+                        <cell> </cell>
+                        <cell>61000</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Diſburſt in</hi> Surrat <hi>in Cuſtomes,</hi> &amp;c. <hi>in and out</hi>
+                        </cell>
+                        <cell>5400</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>By Ships expences for Proviſions</hi>
+                        </cell>
+                        <cell>2500</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>By Houſe expences in all the Factories</hi>
+                        </cell>
+                        <cell>2000</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>By Charge Merchandiſe in all the Factories</hi>
+                        </cell>
+                        <cell>4500</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>By Factors Wages on the Shore</hi>
+                        </cell>
+                        <cell>1250</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>By Houſe-rent in all the Factories</hi>
+                        </cell>
+                        <cell>150</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>By Preſents to the Governors and Merchants</hi>
+                        </cell>
+                        <cell>900</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>Summe disburſed</cell>
+                        <cell> </cell>
+                        <cell role="total">16700</cell>
+                     </row>
+                     <row>
+                        <cell>And there remain'd for Imploy<g ref="char:EOLhyphen"/>ments the next yeare</cell>
+                        <cell> </cell>
+                        <cell role="total">44300</cell>
+                     </row>
+                  </table>
+               </p>
+               <pb n="8" facs="tcp:37075:9"/>
+               <p>And the ſame yeare was brought for <hi>England,</hi> upon the Ships <hi>Charles</hi> and <hi>Jonah,</hi> Goods, which coſt in <hi>India</hi> upwards <note place="margin">
+                     <table>
+                        <row>
+                           <cell role="label">Sh.</cell>
+                           <cell role="label">Tun.</cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <gap reason="illegible" resp="#MURP" extent="3 letters">
+                                 <desc>•••</desc>
+                              </gap>rles</cell>
+                           <cell>1000</cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <gap reason="illegible" resp="#MURP" extent="4 letters">
+                                 <desc>••••</desc>
+                              </gap>h</cell>
+                           <cell>800</cell>
+                        </row>
+                        <row>
+                           <cell> </cell>
+                           <cell role="total">1800</cell>
+                        </row>
+                     </table>
+                  </note> of fourſcore thouſand pounds, in concluſion of the ſecond and great joynt Stock, by all which may be obſerved, that the greateſt part of Returnes ſent home, was upon high intereſt in <hi>India,</hi> and which lay many yeares unpaid, to the exceeding pre<g ref="char:EOLhyphen"/>judice of the Adventurers.</p>
+               <p>Whereas, had they ſent out 200000 l. every yeare in quick ſtock, as they have been often adviſed, and earneſtly intreated by their Factors in <hi>India,</hi> that great intereſt had been ſaved, and the charge had increaſed nothing more than in Cuſtomes, and Charge Merchandiſe; but the profit, both abroad and at home would have been ſuch, as would have born all loſſes, which have happened and befalne that action, by the impro<g ref="char:EOLhyphen"/>v<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>dent ſending home their Ships late in the yeare, and an over<g ref="char:EOLhyphen"/>plus of faire gaine to have incouraged the generall Adventu<g ref="char:EOLhyphen"/>rers in the purſuance of that brave and rich Trade, if rightly managed.</p>
+               <p>Being now falne upon the unhappy loſſes this trade hath ſu<g ref="char:EOLhyphen"/>ſtained, it will not be out of ſeaſon, to let you know how im<g ref="char:EOLhyphen"/>providently they ordered the returne of their Ships from <hi>India</hi> late in the yeare, occaſioned chiefly for want of ſtock in the <gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ountry, to provide Goods in the beſt ſeaſon, that ſo their Ships might come thence in <hi>December</hi> at fartheſt, ſo would they bring a Somer ſeaſon all the way, and at home alſo; whereas coming thence in <hi>April,</hi> as for the moſt part they have done heretofore, they bring with them a Winter ſeaſon, about the <hi>Cape of good Hope</hi> and all the way, &amp; upon our own Coaſt alſo, which hath occaſioned the greateſt loſſes by Sea, as wo<g ref="char:EOLhyphen"/>full experience hath taught the generall Adventurers: And truly, if your Highneſſe ſhall rightly obſerve, the conſtant courſe of the Dutch, in ſending away their Ships about the be<g ref="char:EOLhyphen"/>ginning of <hi>December,</hi> together with the long experience of <note place="margin">The late co<g ref="char:EOLhyphen"/>ming of our ſhips ou<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> of <hi>In<g ref="char:EOLhyphen"/>dia</hi> cauſe o<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> ſo many loſſes.</note> their Ships ſafe and ſeaſonable arivall in <hi>Holland,</hi> and the Companies many loſſes, and hazardous adventures, they have run upon thoſe Ships, which have come thence ſo late in the yeare; you cannot but conclude, thoſe that managed that action, to have been, and ſtill are, moſt wilfully improvident
+<pb n="9" facs="tcp:37075:9"/> in their way of trade, as if they did not deſire its proſperity and welfare: And no leſſe careleſſe were they in the over<g ref="char:EOLhyphen"/>charge of ſhipping, and unreaſonable burthen of unneceſſary ſervants at home; notwithſtanding the many and often com<g ref="char:EOLhyphen"/>plaints of the general Adventurers, even of late, when we had <note place="margin">Unneceſſary charge of Ser<g ref="char:EOLhyphen"/>vants, ab<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>oad and at home, a very great hin<g ref="char:EOLhyphen"/>derance to our ſmall ſtock.</note> not in ſtock above a hundred four thouſand pounds; our charge was as much here at home, and much more abroad, than when we had that great ſtock of 1600 thouſand pounds, yet could they not prevaile with that Court to leſſen this heavy burthen of unneceſſary charge.</p>
+            </div>
+            <div type="part">
+               <head>In <hi>Anno</hi> 2627.</head>
+               <p>We had on our hands in <hi>Surrat</hi> onely, twelve great Ships, <note place="margin">Twelve great ſhips in <hi>Su<gap reason="illegible" resp="#MURP" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>rat</hi> with little or no ſtock to imploy them.</note> with little or no ſtock wherewith to imploy them, as may ap<g ref="char:EOLhyphen"/>peare by the foregoing account, and their owne Letters of the 12 of March 1627. when the ſame year we ſent to <hi>Bantam</hi> Goods for 11889 l. which was ſcarce 100 tunnes of tunnage, upon eight of the greateſt Ships, ſix whereof went from <hi>Ban<g ref="char:EOLhyphen"/>tam</hi> on a Wildgooſe Chaſe about the Iſland of S. <hi>Laurence,</hi> in ſearch of the Portugalls Carrackes, but never looked out for them, nor came neare the place of their wonted rande<g ref="char:EOLhyphen"/>vouze.</p>
+               <p>All which Ships, with thoſe ſent out the yeare following, notwithſtanding our ſmall means then in the country (and I left by my Predeceſſor, forty ſix thouſand pounds in debt at intereſt<g ref="char:punc">▪</g> were laden for <hi>England</hi> and <hi>Bantam,</hi> and thence home, with large Cargazones, as by the foregoing account and relation following; which, that your Highneſſe may the better underſtand, I will give you ſome particular Clauſes of the Companies owne Letter of the 12 of <hi>March</hi> 1627. allu<g ref="char:EOLhyphen"/>ding to the not ſending home of the <hi>Dolphin,</hi> according to promiſe, and their own acknowlegement of the great number of ſhips we had upon our hands, and little ſtock wherewith to lade them home.</p>
+               <floatingText type="letter" xml:lang="eng">
+                  <body>
+                     <head>The Clauſe of the Companies Letters</head>
+                     <head>
+                        <date>12 <hi>March</hi> 1627.</date>
+                     </head>
+                     <p>The want of our expected returnes from you this yeare, hath <note place="margin">Bl<gap reason="illegible" resp="#MURP" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>me fo<gap reason="illegible" resp="#MURP" extent="1 letter">
+                              <desc>•</desc>
+                           </gap> not ſending home retu<gap reason="illegible" resp="#MURP" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>ns yearly, the life of trade.</note> much diſheartened our Adventurers, and diſinabled us from ſending you ſuch ſupplies, as we deſired to doe, for which omiſ<g ref="char:EOLhyphen"/>ſion
+<pb n="10" facs="tcp:37075:10"/> of yours ſo directly againſt your writing to us in your Letter, and ſo contrary to our continuall advice to you, we cannot chuſe but blame you much, ſeeing our advice in every of our Letters, for many yeares together, was that you would not faile to ſend us home returnes yearly, in ſuch ſeaſon as you could; for the ſaid Returns are the life of Trade, both in regard of heart and meanes; wherefore we muſt needes ſay againe, that you did not well in the omiſſion thereof, for you have thereby much diſappointed our expectations, and ſeeme very ſlightly to have regarded our advice.</p>
+                  </body>
+               </floatingText>
+               <floatingText type="letter" xml:lang="eng">
+                  <body>
+                     <head>Another.</head>
+                     <p>By reaſon of the great number of Ships, which we have there upon our exceeding great charge, as you well know, ten <note place="margin">The generall Adventurers diſheartened for want of re<g ref="char:EOLhyphen"/>turnes.</note> great Ships, and two Pinnaces, if Captain <hi>Hall</hi>
+                        <gap reason="illegible" resp="#MURP" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>s Fleet be ſafely there (as we hope they are) we have therefore thought good to furniſh and ſend you but two ſhips for this voyage, namely, the <hi>Jonah</hi> of 800. tunnes, and the <hi>Expedition</hi> of 350. and howſo<g ref="char:EOLhyphen"/>ever, as we ſaid before, the Adventurers are much diſhearten<g ref="char:EOLhyphen"/>ed for lack of returnes from you this yeare; yet have we, with much difficulty, prevailed with them for a concluſion of this ſe<g ref="char:EOLhyphen"/>cond joynt Stock, and beſt advancement of the ſame, to ſend you a reaſonable ſupply of Money and Goods, in theſe our two <note place="margin">Expreſs com<g ref="char:EOLhyphen"/>mand to ſend home all their Ships.</note> Ships, whereby you may be the better provided, not only to lade home themſelves, but all the reſt of our Ships there alſo, for whom you have not ſufficient ſtock there already, knowing that thoſe you ſhall not lade home, will in one yeare eat out more than their own worth, in mens wages &amp; victuals only be<g ref="char:EOLhyphen"/>ſides the wearing out of themſelves, their furniture, ſtores and proviſions (as coſtly experience hath taught us) which duly recommended, you will acknowledge what damage we ſuſtain, by keeping our ſhips there unreturned. wherefore we pray you, at any hand, to relade them all away with all expedition, that ſo we may have the whole returns of this our ſecond joynt Stock from thence, upon its own adventure, without any lag or remaine (if poſſible) or as few as may be to be tranſported to our next joynt ſtock, for erection whereof we have reſolved preſently after diſpatch of theſe two ſhips, to ſend forth a Book amongſt the Adventurers for a new Subſcription, which we
+<pb n="11" facs="tcp:37075:10"/> have hitherto deferred, untill we might ſee what concluſion <note place="margin">Promiſe of en<g ref="char:EOLhyphen"/>largement of ſtock not per<g ref="char:EOLhyphen"/>formed not re<g ref="char:EOLhyphen"/>ally intended.</note> the Kings Majeſty will make for us with the Dutch which is now but newly in handling, as in a former clauſe is more largely expreſſed: upon our ſaid next Accompt we ſhall God-willing enlarge our trade for <hi>Surrat,</hi> and furniſh it more amply than ever heretofore we have done: In the mean time, fail not to relade home all our ſhips if it be poſſible for the Adventure of this preſent ſtock.</p>
+                  </body>
+               </floatingText>
+               <p>By the former clauſe of the ſaid Companies Letters your Highneſs may plainly ſee how much they did blame the Pre<g ref="char:EOLhyphen"/>ſident <note place="margin">Blame for not ſending home the <hi>Dolphin</hi> ac<g ref="char:EOLhyphen"/>cording to promiſe. Which diſ<g ref="char:EOLhyphen"/>heartneth Ad<g ref="char:EOLhyphen"/>venturers from ſending out more ſtock.</note> then in being, for not ſending the ſhip <hi>Dolphin</hi> home that year, according to promiſe: And by the ſecond, how earneſtly they deſire ſpeedy return of all their ſhips, That the Adventurers were ſo diſheartned for want of Returns, (the life of trade) that they had with much difficulty pre<g ref="char:EOLhyphen"/>vailed with them to ſend out more Stock: That if their ſhips were kept out but one year longer they would eat out them<g ref="char:EOLhyphen"/>ſelves in Victuals, and mens Wages, with ſundry other ex<g ref="char:EOLhyphen"/>preſſions to this purpoſe.</p>
+               <p>All which I conceiving had been really meant and inten<g ref="char:EOLhyphen"/>ded, <note place="margin">The Auth<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ur ingaged for a<g ref="char:EOLhyphen"/>bove 120 thou<g ref="char:EOLhyphen"/>ſand pounds at intereſt in <hi>India.</hi>
+                  </note> according to the tenor of their ſaid Letters: And out of an earneſt deſire to revive that declining trade then gaſping for breath of large ſupplies; And to reincourage the Ad<g ref="char:EOLhyphen"/>venturers to a new and large Subſcription for another Stock did ingage my ſelf for upward of 120 thouſand pounds in <note place="margin">Notwithſtan<g ref="char:EOLhyphen"/>ding which he did ſend home ſix ſhips with goods coſt 130 thouſand lib. in one year.</note> 
+                  <hi>India</hi> (as I ſaid before) at Intereſt, and in <hi>Ianuary</hi> 1628, ſent them home three ſhips, and in <hi>April</hi> following other three ſhips, with Goods to the value of 130 thouſand pounds in <hi>India:</hi> My Predeceſſor having the foregoing year, upon four ſhips ſent and carried home Goods to the value of 170 thouſand pounds in <hi>India;</hi> And upon the <hi>Maurice, Mary,</hi> 
+                  <note place="margin">His predeceſ<g ref="char:EOLhyphen"/>ſor having ſent home 170 thouſand lib. upon four ſhips the year before.
+<table>
+                        <row>
+                           <cell>
+                              <hi>Charls</hi>
+                           </cell>
+                           <cell>10004</cell>
+                           <cell>l.</cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi>Jonah</hi>
+                           </cell>
+                           <cell>800</cell>
+                           <cell> </cell>
+                        </row>
+                        <row>
+                           <cell> </cell>
+                           <cell role="total">18004</cell>
+                           <cell>l.</cell>
+                        </row>
+                     </table>
+                  </note> 
+                  <hi>Faulcon,</hi> and <hi>Chriſtopher</hi> for <hi>Bantam,</hi> in Goods for 35 thou<g ref="char:EOLhyphen"/>ſand pounds: And in <hi>April</hi> 1630, I followed my ſelf with Goods upon the <hi>Charles,</hi> and <hi>Ionah,</hi> which coſt in <hi>India</hi> at leaſt 80 thouſand pounds.</p>
+               <p>All their ſhips being thus returned in ſafety, and fully laden with rich Goods with which the Adventurers were again en<g ref="char:EOLhyphen"/>couraged, above 600 thouſand pounds clear gained little
+<pb n="12" facs="tcp:37075:11"/> leſſe than 100 thouſand pounds ſaved in ſhipping, the lives <note place="margin">Above 600 thouſand li. gained 100 thouſand li. ſaved in ſhip<g ref="char:EOLhyphen"/>ping and 2000 mens lives pre<g ref="char:EOLhyphen"/>ſerved.</note> of near 2000 land and ſeamen preſerved, which elſe had pe<g ref="char:EOLhyphen"/>riſhed; And the action raiſed from 45 &amp; 50, to 112 1/2 <hi>per cent.</hi> according to their own valuation: I did expect not onely thankfull acknowledgment from the Court of Committees, as I had from the generall Adventurers, but even a large Gratuity for this my good ſervice: but ſo farre were thoſe former from giving me any, either thanks, or reward, that preſently upon the Arrival of thoſe ſix ſhips, ſent them from <hi>Surrat,</hi> in one year, they ſent out another to ſupply my place, calling for me home, under colour of a Private Trader onely, kept 500 li. from me for wages, 300 li. due to me by their Purſers books, and 12 hundred and 50 pounds <note place="margin">A fine of 2500 li. laid on me for doing too much good ſervice.</note> paid into the third joint Stock, above ten years denied me allowance for ſupplying the prime Places of charge and com<g ref="char:EOLhyphen"/>mand in <hi>India,</hi> to maintain the credit and reputation there<g ref="char:EOLhyphen"/>of, coſt me at leaſt 100 li. a year extraordinary for the four firſt years when I was Accomptant; and 250 li. a year for three years from the time I was choſen Preſident, when as thoſe that ſupplied the place of Accomptant both before and ſince my time had 200 li. a year, and the place of Preſident 500 li. a year; and in the cloſe of all, after two years atten<g ref="char:EOLhyphen"/>dance, without laying to my charge any diſhoneſt action, <note place="margin">For which they told me I had done them bet<g ref="char:EOLhyphen"/>ter ſervice if I ſunk their ſhips in the ſea, or fired them in <gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>dia.</note> They ſhamed not in a moſt injuſt and illegal way, themſelves being both Judges and Parties in their own cauſe, to aſſume ſuch arbitrary power as to lay a fine of 2500 li. upon me, which I refuſing to pay, and preſſing hard for a Reward for my good ſervices done the generality of Adventurers; ſome of the great Committees let not to tell me divers times, in a publick and full Court of Committees (what others had often done in private) That I had done them better ſervice if I had ſunk their ſhips in the Seas, or fired them in <hi>India,</hi> than I did by ſending and bringing them home ſo richly laden, wherein had thoſe diſhoneſt Managers of that action ſuffered alone by thoſe many ſhips and goods that have been ſunk in the ſeas and fired in <hi>India,</hi> both before and ſince (and not fallen upon the general Adventurers) it had been but a juſt recom<g ref="char:EOLhyphen"/>penſe for their ingratitude both to God and man.</p>
+               <pb n="13" facs="tcp:37075:11"/>
+               <p>Here is a myſtery beyond ordinary apprehenſion or com<g ref="char:EOLhyphen"/>mon reaſon, not to be diſcerned but by thoſe that have nar<g ref="char:EOLhyphen"/>rowly ſearched into their unjuſt waies, which that your Highneſſe may the better underſtand I ſhall humbly deſire your Highneſſe to look back unto the end of <hi>Anno</hi> 1628, and beginning of 1629, when they had a very great parcel of Indico come home upon the <hi>Palſgrave, Dolphin, Diſco<g ref="char:EOLhyphen"/>very,</hi> and <hi>William,</hi> of value above 200 thouſand pounds; a parcel too big for any one, or a few to meddle with, yet muſt not be ſold but in groſſe and altogether; upon this great parcell (as I have been informed, and that moſt truly) did ſome particular Grandes, rich Committees, Aldermen, &amp;c. caſt an eye of private intereſt, and the better to work their own ends, and diſcourage other men from medling there<g ref="char:EOLhyphen"/>with, they did cunningly ſell off ſome ſmall parcels of Indico formerly bought at under-rates, by this means beating down the price and delaying to put the other to ſale for almoſt a whole year, untill themſelves were provided of monies and a ſeaſon fitting their own diſhoneſt intentions, which could not be untill they were aſſured the ſhips that went that year for <hi>India</hi> were gone clear from off our coaſt, having in their Letters by thoſe ſhips given order unto their Preſident and Councel in <hi>Surratt</hi> to buy no more Indico except at 8, or 9 Rupies the Maund; a price not known in our time, nor yet many years before; whih was as much as to ſay, Buy <note place="margin">Order ſent in<g ref="char:EOLhyphen"/>to <hi>India</hi> to buy no more In<g ref="char:EOLhyphen"/>dico.</note> none at all; which they durſt not plainly ſay, leſt the reſt of the Court, not privie to their deceitful deſign ſhould diſ<g ref="char:EOLhyphen"/>cover it.</p>
+               <p>The ſhips thus gone with this adviſe, which they believed <note place="margin">A Court of Sales called in a moſt ſurre<g ref="char:EOLhyphen"/>pritious way contrary to their own or<g ref="char:EOLhyphen"/>ders of Court.</note> would have been obſerved in <hi>India,</hi> (as it might have been, if timely given) they forthwith cauſed a Bill of Sale for this great parcel of Indico to be ſet upon the Pillars in the <hi>Ex<g ref="char:EOLhyphen"/>change</hi> at Eight daies warning (which if I be not miſinfor<g ref="char:EOLhyphen"/>med) ought by their own orders of Court, to have been at Eight weeks, that ſo men might have had time to joyn to<g ref="char:EOLhyphen"/>gether, agree and provide monies, or ſecurity for ſo great and vaſt ſummes as that parcel would and did amount unto.</p>
+               <pb n="14" facs="tcp:37075:12"/>
+               <p>This Day of Sales being come, few Buyers appeared, (but <note place="margin">The Indico ſold at under<g ref="char:EOLhyphen"/>value, at rebate for months, 40 mo: which is 33 <hi>per cent.</hi> and 15 <hi>per cent.</hi> the impoſt of 6 d. <hi>per lib.</hi> is 48 <hi>per cent.</hi> gains, before it goe out of the land.</note> thoſe combined to out-bid all offers) that durſt adventure upon ſo great a parcel as that was, eſpecially ſeeing a great and rich Alderman make the firſt offer (though low) and back'd with divers other of his kindred, friends, and Co<g ref="char:EOLhyphen"/>partners, whom they feared to diſpleaſe; It was ſuddenly put to the Candle, (a fine Cheat, where a cunning Secretaty hath the art of Extinguiſhing) which was ſoon out; and the commodity his at a lower price than ever ſold at before; And that at five, ſix months day of payment, upon rebate at 10 li. <hi>per cent.</hi> for five, eight months paying in ready money, as they did, rebating for 40 months, which is 33 1/3 <hi>per cent.</hi> which with 6 d. upon every pound of Indico for impoſt which they <note place="margin">A moſt noto<g ref="char:EOLhyphen"/>rious abuſe to the Adventu<g ref="char:EOLhyphen"/>rers.</note> received back after the rate of 10 groats a pound, which is 3 s. upon every 20 s. or 15 <hi>per cent.</hi> more, which together makes 48 3/1 <hi>per cent.</hi> a preſent and ſure gain, before the commodity went out of the River, which if ſold abroad, at the ſame price it coſt here is a fair recompenſe for what they loſt with the generality in the under rate they bought it at.</p>
+               <p>Adde hereunto the great weight and choice of the beſt of the Commodity given them by their own Servants: To pre<g ref="char:EOLhyphen"/>ſerve <note place="margin">The diſhone<g ref="char:EOLhyphen"/>ſty of their ſer<g ref="char:EOLhyphen"/>vants, in giving over weight to their Maſters to preſerve fa<g ref="char:EOLhyphen"/>vour.</note> their favour, ſome of whom alſo ſhared with them in their good bargains; which great wrong and injury to the generall Adventurers was beyond all honeſt and faithfull dealing, whereunto both Maſters and Servants are, or ought to be every year by oath obliged; The like abuſe is too fa<g ref="char:EOLhyphen"/>miliary practiſed in the ſale of all other Commodities, them<g ref="char:EOLhyphen"/>ſelves <note place="margin">The ſame a<g ref="char:EOLhyphen"/>buſe in all o<g ref="char:EOLhyphen"/>ther commo<g ref="char:EOLhyphen"/>dities.</note> being both Buyers and Sellers of the ſame, to the ex<g ref="char:EOLhyphen"/>ceeding great prejudice of the Adventurers, who have in<g ref="char:EOLhyphen"/>truſted them with the managing of their buſineſſe in hopes of fair and juſt dealing.</p>
+               <p>But to come more neer to the myſterie it ſelf, which is, why the general Adventurers, ſhould ſo much applaud my good ſervice done for them by ſaving them 100 thouſand pounds in ſhipping by preſerving at leaſt 2000 land and ſea<g ref="char:EOLhyphen"/>mans lives, which muſt have periſhed with their ſhips if ſunk in the ſea, or fired in <hi>India,</hi> by gaining them above 600 thou<g ref="char:EOLhyphen"/>ſand pounds by the Goods, ſo ſent, and brought home; all
+<pb n="15" facs="tcp:37075:12"/> which raiſed the Action to 11 1/3. <hi>per cent.</hi> as I ſaid before. And for the very ſame cauſe, and no other, that Court of Committees ſhould wiſh all thoſe Ships ſunk in the Sea, or fired in <hi>India,</hi> to the utter ruine of that Trade, which they have endeavoured, and now brought almoſt to their deſired ends, as I ſhall more fully diſcover, when I come to diſcourſe of the Trade for the ſilke of <hi>Perſia.</hi>
+               </p>
+               <p>That which now troubled them was, firſt, the fruſtrating <note place="margin">The arrivall of 8. Ships in two years, with great ſtore of Indico, loſt their hoped for gaine.</note> of their owne, expected gaines, which they had made to themſelves, in hopes of at leaſt two yeares time, for the ſale of the ſaid Indicoe, at their owne priſes, having preſently raiſed it to 50l. <hi>per cen.</hi> Profit, when unexpectedly, here arrived the ſame Summer ſixe Ships, with a ſecond great parcell of Indicoe which I had bought, and provided, before their ſaid forbidding Letters came to my hands, and my ſelfe following <note place="margin">Which cauſed ſuch Inhuma<g ref="char:EOLhyphen"/>uiries fall from them, as to diſ<g ref="char:EOLhyphen"/>cover their evil intentions.</note> the next year, with a third great parcell brought downe the piece againe, to almoſt what they had bought theirs at, which was the cauſe he and they loſt of their hoped for gains, and moved ſuch inhumanities to fall from them, faire and true expreſſions of their evil affection to thoſe ſo rich Trades of <hi>India,</hi> &amp;c.</p>
+               <p>A ſecond was, a croſſing their deſigne of buying all the <note place="margin">And croſſing their baſe de<g ref="char:EOLhyphen"/>ſigne of buying of Adventu<g ref="char:EOLhyphen"/>res, a trick now againe in practice.</note> Adventures of the Nobility, Gentry, Widdowes and Or<g ref="char:EOLhyphen"/>phants, as they had bought of many, at halfe their value, as will plainly appeare by their owne accompts; propoſing a<g ref="char:EOLhyphen"/>mongſt themſelves, to ingroſſe all Adventures, to the end, to make the whole Trade their own, and gaine that compoſi<g ref="char:EOLhyphen"/>tion, expected from the <hi>Dutch,</hi> wholly to themſelves, an intention, as foule, as falſe, to the betrayed truſt of the Ad<g ref="char:EOLhyphen"/>venturers.</p>
+               <p>And it will be no hard matter to prove that ſome of the <note place="margin">Order for no mork Pepper to be ſent home, as was formerly given for Indico, in prejudice of the Adventurers.</note> preſent Grandees, and ruling Gommittees, who having late<g ref="char:EOLhyphen"/>ly ingroſſed all the Pepper of two yeares returnes, at baſe and low prizes, did ſo order the buſineſſe in <hi>India,</hi> that no more Pepper ſhould be ſent home the following yeare, as formerly they did upon the like occaſions, forbid any more <hi>Indico</hi> to be bought, not regarding the great loſſe the gene<g ref="char:EOLhyphen"/>rall Adventurers did ſuſtaine by keeping a great Ships
+<pb n="16" facs="tcp:37075:13"/> ladeing of Pepper in <hi>India,</hi> a whole yeare, which might have been ſent home one year ſooner; which Ship, and Pepper, was in great danger, to be ſurprized by the <hi>Dutch,</hi> for want of timely advice given their Factors of the breach of Peace, as if in heart they deſired the Ship and Pepper might be ta<g ref="char:EOLhyphen"/>ken by them, or periſh at Sea. But God Almighty fruſtra<g ref="char:EOLhyphen"/>ted <note place="margin">The Pepper Ships long de<g ref="char:EOLhyphen"/>tention in <hi>Pli<g ref="char:EOLhyphen"/>moth,</hi> not with<g ref="char:EOLhyphen"/>out a myſterie if well exami<g ref="char:EOLhyphen"/>nep.</note> their deſires, and brought in the Ship to <hi>Plymoth</hi> in ſafe<g ref="char:EOLhyphen"/>ty, where ſhe lay ſome Moneths, with faire windes, rather wilfully detained by their under-hand dealing, than for want of Convoy, which muſt be laid upon the Council of States failing in their promiſed ſupply; an old trick of that Court, to fling ſcandals upon the Supreame Power, in all their ge<g ref="char:EOLhyphen"/>neral meetings, as they did heretofore, when ever the <hi>Dutch's</hi> Wrongs and Injuries were in queſtion, the Supreame Powers muſt bear the blame, when themſelves never made other than ſlight addreſſes unto them, as more willing they ſhould not be compoſed, untill their owne deſignes were perfected.</p>
+               <p>Another heavy abuſe to the generall Adventures, was theie neglect of Preſſing the late King, and preſent Goun<g ref="char:EOLhyphen"/>cil of State, for the leſſening of the over-great Impoſt laid upon Indico, Pepper, and other <hi>India</hi> Commodities, which becauſe in former times, when Indico was worth 5s. and 7s. <note place="margin">The Impoſt of Indicoe, and Peper of ſo great profit to the Commit<g ref="char:EOLhyphen"/>tees, that they doe not deſire its eaſement as they ought.</note> 6d. a pound, and Pepper, 3s. 4d. a pound, there was laid up<g ref="char:EOLhyphen"/>on Indico 6d. and Peper 2d. a pound Impoſt, and now Indico being fallen one third part in price, and Pepper to 12d. a li. they are not able to beare it; the Generall Adventurers, at many meetings, have complained, as a neglect in the Gover<g ref="char:EOLhyphen"/>nours, and Court of Committees, not ceally informing the Counnil of State of this over-charge; they have been made believe it is not their fault, having earneſtly importuned the Council of State to leſſen that great Impoſt on Pepper, &amp;c. but could never prevaile, when indeed they have been ſo far from preſſing it, that they rather deſire its continuance, as to them more beneficiall, in the buying of theſe commodities. As for Example,</p>
+               <p>Suppoſe there be in a Stock 100. thouſand pounds (as there is little more in that now in being) and that a Committee man have 1000/. Stock, Adventure therein, which is one
+<pb n="17" facs="tcp:37075:13"/> hundred part of the whole, and there is two Millions of pounds of Pepper come home this year, which at 12d. the pound makes one hundred thouſand pounds, which at 2 d. the <note place="margin">Therefore why the Committee deſire not to have the Im<g ref="char:EOLhyphen"/>poſt of Pepper taken off, is their own pri<g ref="char:EOLhyphen"/>vote gain thereby.</note> pound impoſt is, 16666 l. 13 s. 4 d. upon the whole; the 100 part whereof, is, 166 l. 13 s. 4 d. which the ſaid Committee<g ref="char:EOLhyphen"/>man loſeth in the whole parcell with the Generall Adventu<g ref="char:EOLhyphen"/>rers; but this Committee-man buyeth this 100000 pounds worth of Pepper, and ſhipping it out again within 12 months, bath 2 d. for every pound of Pepper allowed him back for Impoſt, which is, 166666 l. 1 3 s. 4 d. ſo as here remains clear of gains, 16500 l. before the Commodity is gone out of the <note place="margin">16500 l.</note> Land, without any advantage at all to the generall Adven<g ref="char:EOLhyphen"/>turers, who may not wonder if the Court of Committees de<g ref="char:EOLhyphen"/>ſire not the taking off this great Impoſt, though ſenſilbe edough of their betrayed Truſt, and breach of Oath, to manage all things in an upright way, and for the Generall good.</p>
+               <p>But were all thoſe that have the managing of that Action here at home, bound, both by Oath and Bond, from being <note place="margin">If the Com<g ref="char:EOLhyphen"/>mittee-men were bound from buying and ſelling the Companles Commodities, they would ne<g ref="char:EOLhyphen"/>ver eover to be Committees.</note> Buyers and Sellers of the Companies Commodities, neither directly for themſelves, nor indirectly by other men for them, no Aldermen, nor great rich men, would trouble themſelves to be Committee-men, as now they do; a courſe moſt injuſt and diſhoneſt, to inrich themſelves by the ruine of the Ad<g ref="char:EOLhyphen"/>venturers, which hath ever been, and will be ſo, untill duly reformed by the States, taking the Action into their own protection, or laying it open and free for every man, that is willing to trade into the remote parts of <hi>India,</hi> and be Ma<g ref="char:EOLhyphen"/>ſters of their own Goods, both abroad and at home, to diſ<g ref="char:EOLhyphen"/>poſe of them to their own beſt advantage; for Joynt Stocks do now too plainly appeare to be the worſt of Monopolies, as this hath been the moſt hurtfull? that ever was to this Na<g ref="char:EOLhyphen"/>tion.</p>
+               <p>Nor is your Highneſs and State a little abuſed by this man<g ref="char:EOLhyphen"/>ner of returning of Impoſt upon all <hi>India</hi> Goods, that are tranſported within 12 Moneths, as accuſtomed, if not done by, and for the generall advdenturers account, to which end I ſuppoſe it was granted as a thing juſt and equall with all
+<pb n="18" facs="tcp:37075:14"/> other Merchants; but with this Company, the greater part (if not all) of the Commodities brought out of of <hi>India,</hi> are bought, and Ship out again by particular Committee-men, that, peradventure, have not above 3. or 400. l. adventure <note place="margin">3 o 400 l.</note> in the whole Stock; What reaſon is there, that that man that hath but 300. l. adventure (perhaps none at all, but as a <note place="margin">Perhaps none at all, but as a Freeman.</note> Free-man) ſhall buy for 10, 20, 30, 4000 l. or more, in any Commodity, and receive back the Impoſt of the whole, with<g ref="char:EOLhyphen"/>out any benefit at all to the generall Stock, which firſt paid it, but ſo much reall loſs to the State; for, ſuppoſe a Com<g ref="char:EOLhyphen"/>mittee-man of 300 l. adventure, buyeth a parcell of Pepper worth 10000 l. which he ſhippeth out within 12. months (according to the former evill Cuſtom) whereby he hath 2 d. in the pound Impoſt returned, which comes to 1666 l. 13 s. 4 d. whereas his due is but 33 l. 65. 8. the Impoſt of 300. pounds worth of Pepper, whereby this Committee-man gains in one year, almoſt five times his whole adventure, and ſo proportionably, if he buy for 20. 30. 50. or 100. thouſand pounds worth of Pepper, as ſome men have often bought, to the great inriching of themſelves, without any advantage at all to the Company in generall, and great loſs to the State for theſe many years paſt, which may be, for the future, re<g ref="char:EOLhyphen"/>medied. This being one prime reaſon, that ſo many Alder<g ref="char:EOLhyphen"/>men, and great rich men, become Committe-men, and are Buyers and Sellers of their own Commodities, at their own prices, and long time, with rebate for 8. moneths for every 6. moneths a notorious abuſe to the generall Adventurers, as I have ſaid elſe-where, and may be worthy your Honours and States conſideration, in prevention of future abuſes in this kind. It is not ſo with the Merchant that tradeth into other parts, if he bring in a Commodity that finds not that vent for it here, as he can have elſe-where, ſhippeth out again all, or part, receives back the Impoſt he himſelf formerly paid, which is but juſt, but theſe Committee-men of the <hi>Eaſt-India</hi> Company receive back the Impoſt, not onely of what concerns their own proportion of ſtock, but even what the whole body of Adventurers did formerly pay, and wherein they themſelves had no reall intereſt, an abuſe worthy refor<g ref="char:EOLhyphen"/>mation
+<pb n="19" facs="tcp:37075:14"/> for the future, as having bin ſome years 40. or 50000l. loſs, and more, to the State, as will appear upon the exami<g ref="char:EOLhyphen"/>nation of their Accounts.</p>
+               <p>By the foregoing diſcourſe, your Highneſs may in part ſee <note place="margin">The improvi<g ref="char:EOLhyphen"/>dent way of trade which our Grandees have practiſed, appears in neg<g ref="char:EOLhyphen"/>laect of trade from Port to Port, in India it ſelf.</note> the improvident way of trade, thoſe great and wiſe men did run, even when they had ſo large and plentifull means, as was that of the ſecond and great Joynt Stock: But when your Highneſs ſhall conſider how wilfully negligent they have been of the trade between Port and Port, in <hi>India</hi> it ſelf, you will, with admiration, wonder that ſuch wiſe and underſtan<g ref="char:EOLhyphen"/>ding Merchants, as they were, ſhould commit ſuch groſs er<g ref="char:EOLhyphen"/>rours; if not done on purpoſe to ruine the Action, which that your Highneſs may the better apprehend, and ſee the difference between the immediate trade from <hi>England</hi> to <hi>Surratt,</hi> and <hi>Muſlapatan,</hi> and thence back again for <hi>En<g ref="char:EOLhyphen"/>gland,</hi> and that of one or two years imployment between <hi>Surratt,</hi> or <hi>Muſlapatan,</hi> and the Southern parts, as to <hi>Ban<g ref="char:EOLhyphen"/>tham, Acheen, Macaſſar,</hi> &amp;c. and thence back again to <hi>Sur<g ref="char:EOLhyphen"/>rat,</hi> or <hi>Muſlapatan,</hi> and ſo for <hi>England.</hi>
+               </p>
+               <p>Suppoſe there be twenty thouſand pound in Rialls of Eight, <note place="margin">To the ſending 20000 l. to <hi>Sur<g ref="char:EOLhyphen"/>rat,</hi> there to be inveſted in Goods for <hi>En<g ref="char:EOLhyphen"/>gland,</hi> may yeild here 23000 l.</note> and Goods ſent to <hi>Surrat,</hi> or <hi>Muſlapatan,</hi> which might yeild there five or ſix thouſand pounds profit, allowing 2000 l. to defray charges there, and there remains 23000 l. to be in<g ref="char:EOLhyphen"/>veſted in Indico and Callicoes, &amp;c. which ſent directly for <hi>England,</hi> might, according to accuſtomed computation, have yeilded here three for one, or 69 thouſand pounds, from which, allow 15 thouſand pounds for fraight, aſſurance, for<g ref="char:EOLhyphen"/>bearance of their money, cuſtomes, and other charges, and there remains 34 thouſand pounds clearly gained; a faire recompence, if no unhappy loſs befall it: but if that 23000 l. <note place="margin">But inveſted in Goods for the Southwards, and then re<g ref="char:EOLhyphen"/>inveſted in Goods for <hi>Sur<g ref="char:EOLhyphen"/>rat</hi> again, and then for <hi>Engl.</hi> would have made here 216000 l.</note> in <hi>Surrat,</hi> had been inveſted in Commodities, fitting <hi>Ma<g ref="char:EOLhyphen"/>caſſar, Acheen, Janiby,</hi> and <hi>Bantham,</hi> would have yeilded two for one, at leaſt, clear of all charges, or 46 thouſand pounds; which again re-inveſted in Cloves, Maces, Nutmegs, Lignum Allois, Turtle ſhells, Camphir, Benjamin, China roots, Pepper, and other Druggs, would have made in <hi>Surrat</hi> and <hi>Perſia,</hi> at leaſt two for one more, or 92000 l. from which allow 20000 l. for cuſtomes, &amp;c. charges, and there had remained
+<pb n="20" facs="tcp:37075:15"/> 72000 l. to be inveſted in Indico, Callicoes, &amp;c. for <hi>England,</hi> which at three for one, is here 216000 l. a large Recompence for one or two years ſtay longer in <hi>India;</hi> all which, as a reall truth, will appear by their own Accounts, and the teſti<g ref="char:EOLhyphen"/>mony of their Servants, that have been in thoſe imployments. This was the manner of trade uſed by the Portugalls and Dutch, to their exceeding great profit, as appeared to all the world; yet would our Court of Committees not be perſwa<g ref="char:EOLhyphen"/>ded thereunto, untill of late yeares, when Trade was over<g ref="char:EOLhyphen"/>laid by the Dutch, and Shame, and the urgent preſſures<g ref="char:punc">▪</g>of <note place="margin">The trade from Port to Port, is that which made the Por<g ref="char:EOLhyphen"/>tugall, &amp; now the Dutch, to thrive.</note> Mr. <hi>Smithwick,</hi> and others, upon my information of the trade of <hi>India,</hi> began to look more narrowly into their impro<g ref="char:EOLhyphen"/>vident waies, and neglect of trade, did inforce them thereunto. Having thus far inlarged m diſcourſe, on the want of ſtock in <hi>India,</hi> ill managing of that little ſent out, with an over<g ref="char:EOLhyphen"/>charge of Shipping, without imployment for them: I will proceed to that of <hi>Perſia.</hi>
+               </p>
+               <p>I am now come to diſcourſe of that, no leſs rich than pro<g ref="char:EOLhyphen"/>fitable trade for Silk of <hi>Perſia,</hi> wherein I muſt ingenuouſly <note place="margin">The trade for Silk of <hi>Perſia,</hi> cauſe of the loſs of the <hi>Mollucca</hi> Iſlands, and all the beſt trades of <hi>India,</hi> China and Japon.</note> confeſs I was in a Labyrinth of admiration and wonderment, when I conſidered the many inconveniences and miſchiefs, which the ruine of this trade hath brought upon that of the <hi>Eaſt Indies</hi> inparticular, and the Common-wealth in generall: had it fallen alone, and periſht upon its own ruines, it had been a moſt heavy loſs to this Nation: but to be the means and the cauſe of the loſs of all the <hi>Mollucca</hi> Iſlands, and with them the beſt of the trade of <hi>India, China</hi> and <hi>Japon,</hi> to the unſpeakable prejudice of the Adventurers in the ſeveral Joynt Stocks, is worthy due conſideration.</p>
+               <p>For the <hi>Eaſt India</hi> Action, ſtrengthened with that great and powerfull means, as was the ſecond Joynt Stock, was <note place="margin">The ſecond Joint Stock was able to have carried all the trade of <hi>In<g ref="char:EOLhyphen"/>dia</hi> againſt Por<g ref="char:EOLhyphen"/>tugall and Dut. if rightly ma<g ref="char:EOLhyphen"/>naged.</note> able (if wiſely managed) to have carryed all the beſt of the <hi>Mollucca</hi> Iſlands, and other trades in <hi>India, China,</hi> and <hi>Ja<g ref="char:EOLhyphen"/>pon,</hi> in deſpight of all the force the Portugals or Dutch could have ſet in oppoſition, had it not met with many evil diſpoſed people of their own Society, bound by Oath and publique Truſt to advance that Action, to the utmoſt of their power and beſt endeavours.</p>
+               <pb n="21" facs="tcp:37075:15"/>
+               <p>Such were the Portugall Merchants, who, that they might have <note place="margin">The Portugal Merchants ene<g ref="char:EOLhyphen"/>mies to our Company tra<g ref="char:EOLhyphen"/>ding for <hi>India.</hi>
+                  </note> have the furniſhing of <hi>England,</hi> with all ſorts of Spices, Indi<g ref="char:EOLhyphen"/>co, and other <hi>India</hi> Commodities, as heretofore did rather deſire the Portugall might hold that Trade to themſelves, as in former times.</p>
+               <p>Such alſo were the Merchant Adventurers, who (beſides <note place="margin">So alſo were the Du<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ch Merchants more intereſſed in the Dutch Action than in ours.</note> many of them more intereſt in the Dutch Action, than the Engliſh) rather deſired the Dutch ſhould injoy the whole trade of <hi>India,</hi> than the Engliſh or Portugals, that ſo they might have Spices, and other <hi>India</hi> Commodities, wherein to make returns in a more profitable way, than by exchange, as they do, to loſs.</p>
+               <p>Yet were both theſe of little or no conſideration (ſetting <note place="margin">The Compa<g ref="char:EOLhyphen"/>ny unwilling to plant them<g ref="char:EOLhyphen"/>ſelves in <hi>India,</hi> becauſe the State would place Gover<g ref="char:EOLhyphen"/>nors and Com<g ref="char:EOLhyphen"/>manders there<g ref="char:EOLhyphen"/>in, as in other Plantations.</note> apart that generall diſlike, that the State ſhould have any power or command in their Plantations) in reſpect of the Turkey Merchants, who would that neither the Portugals, Dutch, nor Engliſh, might injoy thoſe ſo rich trades of <hi>India,</hi> &amp;c. much leſs that of the Silk of <hi>Perſia,</hi> that they onely might ſupply <hi>England,</hi> and other parts, with all thoſe fore-mentio<g ref="char:EOLhyphen"/>ned Commodities from <hi>Alexandria,</hi> eſpecially with the Silk of <hi>Perſia,</hi> from <hi>Alleppo, Smyrna,</hi> and other Ports of <hi>Tur<g ref="char:EOLhyphen"/>key.</hi>
+               </p>
+               <p>Nor did theſe reſt here onely, for they ſeeing that if the <note place="margin">Their feare of b<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>inging the S<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>lk of <hi>Pe<gap reason="illegible" resp="#MURP" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ſis</hi> by way of <hi>In<g ref="char:EOLhyphen"/>d<gap reason="illegible" resp="#MURP" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>a,</hi> was the onely cauſe of the <gap reason="illegible" resp="#MURP" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>ſs of the trade of <hi>India.</hi>
+                  </note> trade of <hi>India</hi> did proſper, and go on in a thriving way, that Stock, in few years, would be able to bring all the Silk of <hi>Per<g ref="char:EOLhyphen"/>ſia,</hi> by way of <hi>India;</hi> rather than which, the whole trade of <hi>India,</hi> with all thereunto belonging, muſt be loſt, and that great Joynt Stock conſumed in a moſt improvident way of trade, as before related, that ſo they might (as they did) diſ<g ref="char:EOLhyphen"/>courage and weary out all the Nobility, Geutry, Widdowes and Orphans, intereſſed therein, to ſell off their Adventures at <note place="margin">To which end they ſt<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>engthen themſ<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>l<gap reason="illegible" resp="#MURP" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>s with th<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> grea<g ref="char:EOLhyphen"/>ter number of Committees of their company, h<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> better to over-rule all at their pleaſure.</note> half their value to themſelves, as I ſaid before.</p>
+               <p>And the better to carry on this deſign, for ruining the trade of <hi>India,</hi> and Stock, they ſtrengthen themſelves with Governours, Deputies, and moſt of Committees of their own Society, of <hi>Turkey</hi> Merchants, that upon all occaſions they might over-rule all oppoſition, as they did that moſt noble and brave propoſition of Sir <hi>Robert Sherley,</hi> for ſetling
+<pb n="22" facs="tcp:37075:16"/> the ſtaple of that rich Commodity of ſilke in <hi>England;</hi> A thing ſo much deſired of the King of <hi>Perſia,</hi> to divert the great Revenue, the Grand Senior (his mortall enemy) made by the Cuſtomes, &amp;c. of the ſaid Silk, in hopes whereof, and in conſideration of the aid the Engliſh gave him againſt the Portugals, in ſurpriſing the Iſland, and City of <hi>Ormus,</hi> he granted to the Nation thoſe many and great Priviledges, ſuch as the Nation injoyes in no part of the World beſides: All <note place="margin">The great pri<g ref="char:EOLhyphen"/>viledges the K. of <hi>Perſia</hi> gran<g ref="char:EOLhyphen"/>ted the Engliſh almoſt loſt to the Nation.</note> which they have ſo neglected, with that ſo commodious Contract made with the King of <hi>Perſia,</hi> that in a manner, both Trade and Priviledges are of little value or conſiderati<g ref="char:EOLhyphen"/>on at this day, in reſpect of what they might have been, if rightly managed.</p>
+               <p>Be pleaſed here alſo to obſerve the moſt unjuſt and diſho<g ref="char:EOLhyphen"/>neſt <note place="margin">They oppoſe Sir <hi>R. Sherley's</hi> Propoſitions for ſetling the Staple of ſilk in <hi>England,</hi> in pre<g ref="char:EOLhyphen"/>judice of the Company and Common<g ref="char:EOLhyphen"/>wealth.</note> carriage of their buſineſſe, in oppoſition to the ſaid Sir <hi>Robert Sherley,</hi> ſo notoriouſly contrary to the true intereſt of the <hi>Eaſt India</hi> Action, that nothing was, or could be pro<g ref="char:EOLhyphen"/>poſed as more advantagious to the ſaid Company, than was that of ſetling the Staple of the Silk of <hi>Perſia</hi> in <hi>England,</hi> yet did that over-ruling power of <hi>Turkey</hi> Merchants, not onely procure an Ambaſſadour from <hi>Perſia</hi> into <hi>England,</hi> but ſo prevailed with the late King to ſend another from hence with the ſaid Sir <hi>Robert Sherley,</hi> into <hi>Perſia,</hi> at the great and <note place="margin">The charge whereof did properly be<g ref="char:EOLhyphen"/>long to the <hi>Turkey</hi> Compa<g ref="char:EOLhyphen"/>ny, and not to that of <hi>Eaſt India.</hi>
+                  </note> vaſt charge of the <hi>Eaſt India</hi> Company, which did properly belong to the <hi>Turkey</hi> Company, whoſe intereſt it really was, and ſo far from prejudice to the <hi>Eaſt India</hi> Company, as nothing could be more advantagious to them, nor more honourable to the State and Common-wealth of <hi>England,</hi> than would that Staple of Silk have been, if rightly managed to its beſt advantage, as I ſhall make appear in my following diſcourſe.</p>
+               <p>Having in ſome meaſure ſhewed your Highneſſe the evil affection of ſeverall Committees in that Government, but eſpecially of that of the Turkey Merchants; I will briefly lay down the manner of the ſaid Companies complying with that Contract made with the ſaid King of <hi>Perſia,</hi> in the beſt of times, by the yearly Stock ſent thither from <hi>England,</hi> du<g ref="char:EOLhyphen"/>ring my abode in <hi>India,</hi> not at all, or very little, inlarged
+<pb n="23" facs="tcp:37075:16"/> ſince, except one yeare, in Tinne, acommodity of leaſt ex<g ref="char:EOLhyphen"/>pence, lay therefore many yeares before it was quite ſpent; Hereby any judicious man, may eaſily perceive their Good affection to that Trade, which done, I will ſhew your Highnes how commodious, rich, and profitable that Trade would have bin to that company in particular, and yet may be to the whole Common-wealth in generall, if rightly ſetled and managed to its beſt advantage, <hi>viz.</hi>
+                  <note place="margin">Stock ſent into Perſia in ſixe yeares of my time very little increaſed ſince.</note>
+                  <table>
+                     <row>
+                        <cell> </cell>
+                        <cell role="label">Li.</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>In</hi> Anno 1624. <hi>was ſent to</hi> Perſia, <hi>Stock,</hi>
+                        </cell>
+                        <cell>6225</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>In</hi> Anno 1625. <hi>was ſent in Money and Goods</hi>
+                        </cell>
+                        <cell>3445</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>In</hi> Anno 16<gap reason="illegible" resp="#MURP" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>6. <hi>in Goods and Moneys</hi>
+                        </cell>
+                        <cell>39265</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>In</hi> Anno 1627. <hi>in Goods and Moneys</hi>
+                        </cell>
+                        <cell>4077</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>In</hi> Anno 1628. <hi>in Goods and Moneys</hi>
+                        </cell>
+                        <cell>6040.</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>In</hi> Anno 1629. <hi>Nothing.</hi>
+                        </cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>In ſix years was ſent in Stock</cell>
+                        <cell role="total">59412.</cell>
+                     </row>
+                  </table>
+               </p>
+               <p>Here the Annuall Inveſtments for <hi>Perſia</hi> from <hi>England,</hi> in ſix yeares, (one year excepted) was ſcarce ſufficient to <note place="margin">Scarce enough to maintain their Factors expence on ſhore.</note> maintain the great charge and expence, in that high Port their Factors lived at, which conſidered, there will appear little Stock remaining to be inveſted in Silk: And this if your Highneſſe pleaſe to obſerve, in the beſt of times, when Silk was worth from four Nobles to thirty Shillings a pound, at which prices, there had been gained at leaſt three and a half for one, which would have advanced their ſtock very much beyond their deſires; which, had our Company imbraced in any reaſonable manner, if not to the full, as they might have done with that great Stock then in being, two years imploy<g ref="char:EOLhyphen"/>ment <note place="margin">300000l. <gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>tock would have brought all the Silk of <hi>Perſia</hi> into <hi>England</hi> every yeare.</note> of 300 thouſand pounds in the manner, I ſhall by and by lay down, would ſo far have inlarged that Stock, as ſhould not onely have been able to bring all that Silk into <hi>England,</hi> have made this City the Staple of that Commodity for all <hi>Europe,</hi> but have carried all, or the greater part of the trade of <hi>India, China</hi> and <hi>Japon,</hi> to the exceeding great advance
+<pb n="24" facs="tcp:37075:17"/> of this Action, and inriching of this Common-wealth and Nation, the wilfull neglect and loſs whereof, if duly weighed, may render the Managers of that Action extreamly blama<g ref="char:EOLhyphen"/>ble, and worthy heavy reproofs from the higher Powers, unto whoſe Wiſdom, and better Judgement, I will leave them,</p>
+               <p>And proceed to the buſineſs it ſelf, and ſhew your High<g ref="char:EOLhyphen"/>neſs <note place="margin">The Compa<g ref="char:EOLhyphen"/>ny blame-wor<g ref="char:EOLhyphen"/>thy for negle<g ref="char:EOLhyphen"/>cting that ſo rich trade for Silk of <hi>Perſia.</hi>
+                  </note> how that Trade might have bin followed in a moſt brave and flouriſhing way, as heretofore, often intimated to ſome of the principall Actors themſelves; but they had alwayes deaf ears to all that was propounded unto them at any time, that had relation to that Trade for Silk of <hi>Perſia,</hi> though themſelves had the ſeverall Contracts made with the ſaid King, on whom they laid the blame of not complying with them, at all the meetings of the Adventurers, at generall Courts, when indeed the blame was their own, as may appear <note place="margin">The Contract with the K. of <hi>Perſia.</hi> 1622.</note> by their yearly ſupplies, ſent out as before in the infancy of <gap reason="illegible" resp="#MURP" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>at Trade, and beſt of times, and the Contract our people made with the ſaid King; firſt in <hi>Anno</hi> 162<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. and renewed again in 1627. as followeth, <hi>viz.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <p>
+                  <hi>A Contract with the King of</hi> Perſia.</p>
+               <p>That what quantity of Engliſh Goods the Engliſh ſhould import his Dominions, accompanied with one fourth part treaſure, the ſaid King was to take them at the prices follow<g ref="char:EOLhyphen"/>ing, <hi>viz.</hi>
+               </p>
+               <p>Broad Cloath about 11 l. price, of 36. yards long, at <note place="margin">Renewed in 1627. the p<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>i<g ref="char:EOLhyphen"/>ſes of Engliſh Cloath, as alſo of Silke.</note> 38. Shahees, the Coved or Engliſh yard, which is 12 s. 8 d. the yard, the Shahee being 4 d. Engliſh.</p>
+               <p>Broad Perpetuanies of 23. yards long, at 15. Shahees, or 5 s. the yard.</p>
+               <p>
+                  <hi>Devon</hi>-ſhire Kerſies of 30. yards long, at 18. Shahees, or 6 s. Engliſh the yard.</p>
+               <p>Tynne at 70. Shahees the Maundſhaw of 8 l. Engliſh, and in lieu thereof, the ſaid K. was to deliver Silk at 48. Tomans the load, every Toman is 3 l. 6 s. 8 d. Engliſh, and every load contains 72. Maundſhaws, of 8 l. Engliſh, ſo as 72. Maund<g ref="char:EOLhyphen"/>ſhaws of 8 l. makes 576 l. of 16 ounces, or 384 l. of 24.
+<pb n="25" facs="tcp:37075:17"/> ounces; and 48. Tomans, of 3 l. 6 s. 8 d. makes 160 l. ſterling, ſo as to buy 1000. load of Silke at 160 l. <hi>per</hi> load, three fourth part Goods, and one fourth part Treaſure, I have eſtimated thus,
+<note place="margin">Engliſh goods to be ſent into Perſia, with one fourth part Treaſure, for 100. thou<g ref="char:EOLhyphen"/>ſand pound, to buy 1000. load of Silke.</note>
+                  <table>
+                     <row>
+                        <cell> </cell>
+                        <cell role="label">li.</cell>
+                        <cell role="label">s.</cell>
+                        <cell role="label">d.</cell>
+                     </row>
+                     <row>
+                        <cell>3000. Broad-Cloaths, about 11 l. price, and 36. yards long, amounts to</cell>
+                        <cell>33000.</cell>
+                        <cell>00.</cell>
+                        <cell>00.</cell>
+                     </row>
+                     <row>
+                        <cell>3000. Kerſies of 13. yards long, at 40 ſh. a piece</cell>
+                        <cell>6000.</cell>
+                        <cell>00.</cell>
+                        <cell>00.</cell>
+                     </row>
+                     <row>
+                        <cell>3000. Perpetuanies of 23. yards long, at 3 l. a piece</cell>
+                        <cell>9000.</cell>
+                        <cell>00.</cell>
+                        <cell>00.</cell>
+                     </row>
+                     <row>
+                        <cell>2000. Quintals of Tinne, at 5 l. the hundred of 112 l.</cell>
+                        <cell>10000.</cell>
+                        <cell>00.</cell>
+                        <cell>00.</cell>
+                     </row>
+                     <row>
+                        <cell>168000. Rialls of Eight, at 4 s 4 d. <hi>per</hi> Riall</cell>
+                        <cell>36400.</cell>
+                        <cell>00.</cell>
+                        <cell>00.</cell>
+                     </row>
+                     <row>
+                        <cell>The whole Cargazone of Goods and Money to be ſent out is</cell>
+                        <cell role="total">94400.</cell>
+                        <cell role="total">00.</cell>
+                        <cell role="total">00.</cell>
+                     </row>
+                     <row>
+                        <cell>Whereunto adde for Cuſtomes, and other Charges at home</cell>
+                        <cell>5600.</cell>
+                        <cell>00.</cell>
+                        <cell>00.</cell>
+                     </row>
+                     <row>
+                        <cell>In all amounts to</cell>
+                        <cell role="total">100000.</cell>
+                        <cell role="total">00</cell>
+                        <cell role="total">00</cell>
+                     </row>
+                  </table>
+               </p>
+               <p>All which delivered into the Kings Ware-houſe, at the priſes agreed on, <hi>viz.</hi>
+                  <table>
+                     <row>
+                        <cell> </cell>
+                        <cell role="label">li.</cell>
+                        <cell role="label">s.</cell>
+                        <cell role="label">d.</cell>
+                     </row>
+                     <row>
+                        <cell>3000. Broad-Cloaths of 36. Coveds long, at 38. Shahees <hi>per</hi> Coved, or yard, and the Shahee at 4 d. Eng. amounts to</cell>
+                        <cell>68400.</cell>
+                        <cell>00.</cell>
+                        <cell>00.</cell>
+                     </row>
+                     <row>
+                        <cell>3000. Kerſies of 13. yards, or Coveds long, at 18. Sh<gap reason="illegible" resp="#MURP" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>hees <hi>per</hi> Coved</cell>
+                        <cell>11700.</cell>
+                        <cell>00.</cell>
+                        <cell>00.</cell>
+                     </row>
+                     <row>
+                        <cell>3000. Perpetuanies of 23. yards long, at 15. Shahees, <hi>per</hi> Coved</cell>
+                        <cell>17250.</cell>
+                        <cell>00.</cell>
+                        <cell>00.</cell>
+                     </row>
+                     <row>
+                        <cell>2000. Quintalls of Tinne, of 112 l. is 224000 l. or 28000. Mand. ſhawes of 8 l. Engliſh, or 70. Shahees or Groats <hi>per</hi> Maund, amounts to</cell>
+                        <cell>32666.</cell>
+                        <cell>13.</cell>
+                        <cell>4.</cell>
+                     </row>
+                     <pb n="26" facs="tcp:37075:18"/>
+                     <row>
+                        <cell>168000. Ryalls of Eeight, at 5 s. <hi>per</hi> Ryall, amounts to</cell>
+                        <cell>42000.</cell>
+                        <cell>00.</cell>
+                        <cell>00.</cell>
+                     </row>
+                     <row>
+                        <cell>Goods and Moneys to be delivered into the Kings Ware-houſe</cell>
+                        <cell role="total">172016.</cell>
+                        <cell role="total">13.</cell>
+                        <cell role="total">04.</cell>
+                     </row>
+                     <row>
+                        <cell>In returne whereof the King was to deliver 1000. load of Silke, of 72. Maundſhaws, at 48. Tomans, or 160 l. ſtarling, <hi>per</hi> load of Silke, is</cell>
+                        <cell>160000.</cell>
+                        <cell>00.</cell>
+                        <cell>00.</cell>
+                     </row>
+                     <row>
+                        <cell>And there will remaine towards Charges there</cell>
+                        <cell>12016.</cell>
+                        <cell>13.</cell>
+                        <cell>04.</cell>
+                     </row>
+                     <row>
+                        <cell>Beſides Freight and Cuſtomes to and from <hi>Perſia,</hi> which may be</cell>
+                        <cell>4983.</cell>
+                        <cell>06.</cell>
+                        <cell>08.</cell>
+                     </row>
+                     <row>
+                        <cell>In all towards charges there in the Countrey</cell>
+                        <cell role="total">17000.</cell>
+                        <cell role="total">00.</cell>
+                        <cell role="total">00.</cell>
+                     </row>
+                     <row>
+                        <cell>Which 1000. load or 2000. great bales of ſilke, weighing here 384l. at 20 s. a pound, a moderate price, maketh <note place="margin">284000 l. gained towards Freight, &amp;c. in 2 <gap reason="illegible" resp="#MURP" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap> yeares, and after in 13 Moneths fore<g ref="char:EOLhyphen"/>ver, if Stocks ſent out, and trade continu<g ref="char:EOLhyphen"/>ed.</note>
+                        </cell>
+                        <cell>384000.</cell>
+                        <cell>00.</cell>
+                        <cell>00.</cell>
+                     </row>
+                     <row>
+                        <cell>From which deduct 100000 l. Goods and Moneyes ſent out</cell>
+                        <cell>100000.</cell>
+                        <cell>00.</cell>
+                        <cell>00.</cell>
+                     </row>
+                     <row>
+                        <cell>And there had been gained by the Adven<g ref="char:EOLhyphen"/>turers the ſumme of</cell>
+                        <cell role="total">284000.</cell>
+                        <cell role="total">00.</cell>
+                        <cell role="total">00.</cell>
+                     </row>
+                  </table>
+               </p>
+               <p>A faire recompence towards Freight, Cuſtome and other Charges here at home, upon ſo rich and ſtaple a Commodity, and all this to be performed in 27. or 28. Moneths, for the firſt voyage, and afterwards in 12. or 13. Moneths at moſt, ſending out ſtock every yeare.</p>
+            </div>
+            <div type="part">
+               <p>But if the ſtock be at any time hereafter, able to ſend out, or otherwiſe to furniſh this trade of <hi>Perſia,</hi> with Engliſh goods, Spices &amp; other <hi>India</hi> Commodities, to the value of 300. thou<g ref="char:EOLhyphen"/>ſand pounds every year, with one quarter part Money, as I ſaid before, it will bring 3000. loade, or 6000 great bales of ſilke, which is the proportion conceived to be brought them every <note place="margin">Commodities out of Perſia, neglected by the Company.</note> yeare into <hi>Turkey,</hi> and would make here (beſides Grogeran, yarne, Gauls, Anniſeeds, Carpets, Goat Skins. ready dreſt in Colours, and other Commodities which our Company
+<pb n="27" facs="tcp:37075:18"/> would never looke after) at leaſt ten hundred thouſand pounds ſtarling, at 20ſh. a pound, a moderate price, from which deduct 300. thouſand pound to be firſt ſent out, and there will remaine 700. thouſand pound gaines towards Freight, &amp;c. Charges at home. And ſo every yeare after the two firſt yeares, and a quarter, or thereabouts. And by this meanes have made <hi>England</hi> the Staple and Magazine of all <hi>Europe,</hi> for that Commodity, which was the reall intenti<g ref="char:EOLhyphen"/>on of the King of <hi>Perſia,</hi> and the brave and noble deſigne of Mr. <hi>Robert Sherley;</hi> however ſhamefully oppoſed by our <hi>Eaſt India</hi> Company, utterly againſt the true intereſt of that Action, and to the extream prejudice of the Adventurers in particular, and the whole Nation in generall: A State-Acti<g ref="char:EOLhyphen"/>on <note place="margin">A State-action the moſt ho<g ref="char:EOLhyphen"/>hourable and profitable way of trade.</note> will be therefore the beſt, moſt honourable, profitable, and ſafe way of trade for this Common-wealth, and not by Joynt Stocks governed as hitherto, neither yet by an open and free trade, as is that of <hi>Turkey,</hi> eſpecially if governed by <hi>Turkey</hi> Merchants (as this hath been) utter enemies to this trade for Silk of <hi>Perſia,</hi> and conſequently to the whole trade of <hi>India,</hi> &amp;c.</p>
+               <p>It may be here objcted, that the trade of <hi>India, Perſia,</hi> &amp;c. if followed with a full ſtock, would carry out a great deale of treaſure, and impoveriſh the Land of money: againſt which our State did wiſely provide heretofore, by obliging the ſaid Company, to bring in as much (if not more) than they did yearely tranſport, which, for ſome yeares, was duly obſer<g ref="char:EOLhyphen"/>ved, and may again, by this means, bring in greater quan<g ref="char:EOLhyphen"/>tities by the proceed of Silk onely; beſides, what other <hi>India</hi> Commodities do produce from <hi>Spaine, France, Italy,</hi> and other parts, from whence all the Treaſure, which elſe would come for <hi>England,</hi> is now carried for <hi>Turkey</hi> to buy Silk of <hi>Perſia,</hi> which if brought directly from thence, by way of <hi>India,</hi> would not onely furniſh the great expence of the Ma<g ref="char:EOLhyphen"/>nufacture of Silk in this Land, but be a means to draw all that treaſure (which is now carried into <hi>Turkey</hi> by other Nations, to buy Silk of <hi>Perſia)</hi> into our own Country, to the great enriching thereof, eſpecially in the increaſe of Treaſure in your Highneſs's Exchecquer, beyond any means whatſoe<g ref="char:EOLhyphen"/>ver.
+<pb n="28" facs="tcp:37075:19"/> If your Highneſſe can obtaine from the King of <hi>Perſia</hi> to renew the Contract for all his Silk, as formerly.</p>
+               <p>For, all that Silk the Merchant bringeth now from <hi>Turkey,</hi> is bought with ready money, at 14 s. the pound, or more, <note place="margin">Silk of <hi>Perſia</hi> bought in <hi>Tur<g ref="char:EOLhyphen"/>key</hi> with ready Money, which elſe would have been brought home.</note> whereas it doth not coſt in <hi>Perſia,</hi> 8 s. at moſt, ready mony; our Cloath, and other Commodities, are ſold in <hi>Perſia</hi> for above 100 l. <hi>per</hi> 100 profit, Tinne almoſt three for one; in <hi>Perſia</hi> we pay no Cuſtomes, which are ten in the hundred inwards, and as much outwards, never had Avenues or Mulcts laid on the Nation, whereas in <hi>Turkey,</hi> our Cloth, and other Commodities, ſeldome, or never, yeild 30. <hi>per</hi> 
+                  <note place="margin">Our Ships make as ſhort a Voyage for <hi>Pe<gap reason="illegible" resp="#MURP" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ſis,</hi> as doe others from <hi>Scandarroon,</hi> af<g ref="char:EOLhyphen"/>ter the firſt Voyage.</note> 100 profit; pay heavy and great cuſtomes in and out, and have many Avenues put upon them every-yeare, in one place or other; our Ships alſo may make their Voyage in as ſhort a time as uſually from <hi>Scandaroon',</hi> after the firſt two yeares and a quarter, with much leſs danger of Pirats or other accidents, whereunto the other are inci<g ref="char:EOLhyphen"/>dent.</p>
+               <p>But had our Company (as I ſaid before) when they had <note place="margin">Spices ſent in<g ref="char:EOLhyphen"/>to <hi>India</hi> and <hi>Perſia</hi> would have yeilded 8. or 10. for one, profit.</note> one third part of the Spices, ſent a reaſonable proportion in<g ref="char:EOLhyphen"/>to ſeverall parts of <hi>India</hi> and <hi>Perſia</hi> every yeare, it would have yeilded there eight, tenne, and more, for one, which would have raiſed the ſtock to ſuch a value, as would have brought a large proportion of Silk from <hi>Perſia,</hi> which again would have yeilded two one halfe for one, at the rate of 20 s. the pound, an indifferent and moderate price, and a very faire recompence for one yeares time ſpent in <hi>India:</hi> but our Company, governed by <hi>Turkey</hi> Merchants, would never be perſwaded to follow that trade from Port to Port in <hi>India,</hi> though never ſo profitable, fearing that their Stock <note place="margin">Unto which our Company would never hea<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ken, nor heare of trade from Port to Port in <hi>India.</hi>
+                  </note> would grow ſo rich and powerfull, as to be able to bring all, or the greateſt part of the ſilk of <hi>Perſia,</hi> by way of <hi>India,</hi> to their particular prejudice, whereby it too plainly ap<g ref="char:EOLhyphen"/>peares that private intereſt is the ruine of all publique Acti<g ref="char:EOLhyphen"/>ons.</p>
+               <p>Here falls in an Objection, which one of the prime mana<g ref="char:EOLhyphen"/>gers of that trade, not long ſince, made to me, when in diſ<g ref="char:EOLhyphen"/>courſe I complained of the Companies neglect of that trade
+<pb n="29" facs="tcp:37075:19"/> for ſilk of <hi>Perſia,</hi> of ſo great profit and conſequence, as I did <note place="margin">Object: why the Dutch doe not buy ſilck of <hi>Perſi<gap reason="illegible" resp="#MURP" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>,</hi> in return of ſpices and other Commo<g ref="char:EOLhyphen"/>dities.</note> then make appear to him, though he would not ſeem to ap<g ref="char:EOLhyphen"/>prehend it; anſwered me, if that trade were ſo profitable as you ſay, why do not the Dutch fall into it, who carry not onely Engliſh Cloth, as we do, but even Spices, and other <hi>India</hi> Commodities alſo, yet do not inveſt the proceed thereof in Silk, which, if it did yeild ſo much profit as you ſay, they would not have ſo long neglected it.</p>
+               <p>Unto this I have in Anſwer two Reaſons: Firſt, that the Dutch made much more benefit by the Treaſure they carried <note place="margin">Anſwered, that they make more profit of treaſure they carry thence for <hi>China</hi> than they carry ſilk for <hi>Holland.</hi> Again, ſome of our Commit<g ref="char:EOLhyphen"/>tees had made a private Con<g ref="char:EOLhyphen"/>tract with the Dutch, not to being the ſilk of <hi>Perſia</hi> into <hi>Eu<g ref="char:EOLhyphen"/>rope.</hi> To which end it may be ſup<g ref="char:EOLhyphen"/>poſed, they neglected the receipt of their Cuſtomes in <hi>Perſia.</hi>
+                  </note> freely out of <hi>Perſia</hi> into the <hi>Mollucca</hi> Iſlands, and <hi>China,</hi> to buy Spices, and Silk, and other Commodities for <hi>Japon,</hi> than the ſilk of <hi>Perſia</hi> would have made at home in <hi>Holland;</hi> which he granted for good: A ſecond reaſon was, that I had heard ſome Dutch in <hi>India</hi> (as I believe he had done the like) ſay that their Company had agreed with ſome of our Grandees, that if they, the ſaid Dutch Company would forbeare the bringing of ſilk from <hi>Perſia</hi> into <hi>Europe,</hi> that might hinder their trade for it into <hi>Turkey,</hi> they would under-hand let fall all their complaints of the <hi>Amboyna</hi> Maſſacre, and other wrongs offered our people in <hi>India,</hi> or at leaſt ſo ſlightly proſecute the ſame, as it ſhould never come to any iſſue, as it hath not untill ſome few weeks paſt: unto this he very angerly replyed (for it went to the quick;) theſe are but ſug<g ref="char:EOLhyphen"/>geſtions of thoſe that have beene in <hi>India,</hi> and would faine poſſeſſe the General<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ty of Adventurers, of greater matters than can be expected, and ſo in paſſion break off our diſ<g ref="char:EOLhyphen"/>courſe, though in his own Conſcience he knew it to be apa<g ref="char:EOLhyphen"/>rent truth.</p>
+               <p>Here alſo your Highneſs may be pleaſed to obſerve, that <note place="margin">The Dutch falling into the trade of <hi>Perſia,</hi> 
+                     <gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>roubled our Company more than the loſſe of the Spice-trade.</note> in the ſame Moneth of <hi>Feb.</hi> and yeare 1622. when our peo<g ref="char:EOLhyphen"/>ple aided the King of <hi>Perſia</hi> in the taking of <hi>Ormus</hi> from the Portugals, the Dutch executed their ſo inhumane but<g ref="char:EOLhyphen"/>chery on our people in <hi>Amboyna,</hi> and the yeare following fell upon the trade of <hi>Perſia,</hi> where they had never been be<g ref="char:EOLhyphen"/>fore; which later did more trouble the over-ruling Gran<g ref="char:EOLhyphen"/>dees of our Company, than the loſſe of all the Spice-trade; yea, and of that of all <hi>India,</hi> which they have now brought
+<pb n="30" facs="tcp:37075:20"/> by a long and lingring Conſumption, even to its laſt gaſp, and muſt ſodainly expire, if your Highneſſe do not take it into your owne protection, and make it a State-action, by giving it new breath of life, and by Stock and Countenance revive <note place="margin">Which now languiſh for want of ſtock to keep up the Action.</note> its decaying ſpirits, now out of all hopes of recovery by Joynt Stocks of Adventurers; ſo much diſheartened by the wilfull Neglects and wrongfull abuſes, improvident Courſes of the former Managers of their Eſtates, that none but Mad-men or Fooles will put themſelves upon the like againe, unleſſe <note place="margin">None but mad-men or foo<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>es will ven<g ref="char:EOLhyphen"/>ture upon Joynt St<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ocks any more.</note> better regulated in its government, or laid open and free for all men that have a mind to trade into thoſe parts.</p>
+               <p>Much more I could ſay, as to the evill managing of that action, to the great hindrance of the particular Adventurers, and the whole Nation in generall; As alſo their great neg<g ref="char:EOLhyphen"/>lects <note place="margin">The trade of <hi>China</hi> and <hi>Japon</hi> neglected, have been very pro<g ref="char:EOLhyphen"/>fitable to the Portugall and Dutch ever ſince.</note> of thoſe rich trades of <hi>China</hi> and <hi>Iapon,</hi> ſuch they have been heretofore to the Portugalls, and now to the Dutch, as one <hi>Iacob Mathews,</hi> a Dutchman, a few yeeres ſince, upon his going for <hi>Holland,</hi> and thence Commander of a Fleet for <hi>India,</hi> did tell me in diſcourſe about the trade of <hi>China</hi> and <hi>Japon,</hi> that their Ships did bring thence every yeare 70 or 80 tunnes of Gold, which according to their computation, is 7. or 800 thouſand pounds <hi>Sterl.</hi> a year: I have alſo heard ſome Dutch (ſome yeares ſince in <hi>India)</hi> ſay, that they did then ſend to <hi>Japon</hi> every yeare ten or twelve thouſand Broad<g ref="char:EOLhyphen"/>cloaths; if ſo many ſo long ſince, ſurely at this time many more: All which hath beene long ſince intimated to our Company, as moſt profitable trades (if rightly followed) yet would they never hearken thereunto, or any thing that ten<g ref="char:EOLhyphen"/>ded to the advance of that Stock, leſt growing rich, ſhould fall upon the trade of Silk; by which means they not onely kept that Commodity to themſelves, but cunningly traded <note place="margin">But our Comp. would trade for no more than them<g ref="char:EOLhyphen"/>ſelves could take off in ſup<g ref="char:EOLhyphen"/>ply of their trade into, the Levant Seas, and elſe where.</note> into <hi>India</hi> for no more than themſelves could take off in ſupply of their owne trades into the <hi>Levant</hi> Seas and other places, at long time, and wrongfully rebates to the great hinderance of the Adventurers, ſo as if they loſt a hundred pound a yeare a man, with the Adventurers in the generall Stock, they gained thouſands by buying their owne Commo<g ref="char:EOLhyphen"/>dities (as I ſaid before.)</p>
+               <pb n="31" facs="tcp:37075:20"/>
+               <p>And when I call to minde the often boaſtings of <hi>Peter</hi> 
+                  <note place="margin">The Dutch ſuſpected to have over-bri<g ref="char:EOLhyphen"/>bed the Com<g ref="char:EOLhyphen"/>mittee below,</note> 
+                  <hi>Vanderbrook,</hi> Commander of the Dutch in <hi>Surrat,</hi> that their Company had chains of Gold that would reach from <hi>Am<g ref="char:EOLhyphen"/>ſterdam</hi> to <hi>London;</hi> I rather believe they have over-bribed the Managers of that Action here below, than thoſe Lords above, ſo much complained of to the Generality; had they had a minde to improve that trade to its beſt advantage, they had ſtock enough (beſides the juſtneſſe of their Cauſe) to have vyed ſtakes with the Dutch, eſpecially here at home, <note place="margin">Which hind ed their Com<g ref="char:EOLhyphen"/>plaints above.</note> where they could finde meanes ſufficient to maintain an Ar<g ref="char:EOLhyphen"/>bitrary power, to abuſe and wrong their ſervants, or any man that laboured the good of that Action; ſo alſo could they find means to bribe, and keep Mr. <hi>Smithwick</hi> from a faire Hearing when he complained of their diſhoneſt Procee<g ref="char:EOLhyphen"/>dings: in theſe caſes, and the like, they ſpared not the ge<g ref="char:EOLhyphen"/>nerall purſe; But to deale with the Dutch, in a buſineſſe of ſo great concernment, they were over-ſparing, as glad they had ſo good an excuſe, as to fling the blame upon the King <note place="margin">On whom they flung all the blame in general Courts.</note> and Lords of his privy Council, in all general Courts, which, together with their ſervants private trade in <hi>India,</hi> was alwaies the burden of their complaints to the general Adventurers (when as ſome of themſelves had greater Adventures in pri<g ref="char:EOLhyphen"/>vate, than in the general Stock;) with ſuch falſe ſuggeſtions as theſe did they abuſe the honeſt minded Adventurers, who ſimply believed them to be as honeſt, as rich, untill woful ex<g ref="char:EOLhyphen"/>perience told them the contrary.</p>
+               <p>For can it be imagined, that ſo grave and wiſe men as they were in their own way ſhould (like little children from whom <note place="margin">They wilfully loſe one third part of the Spi<g ref="char:EOLhyphen"/>ces, which they might have kept.</note> if you take one of their play-games will fling all the reſt a<g ref="char:EOLhyphen"/>way) altogether decline that agreement of 1622. with the Dutch to have one third part of the Spice, upon the <hi>Mol<g ref="char:EOLhyphen"/>lucca</hi> Iſlands, paying 1/3 part of the charge and coſt, becauſe the ſaid Dutch had over-reacht them in the contract, and over-bribed them at Court, that they had not the ſatisfacti<g ref="char:EOLhyphen"/>on they required, or but eaſily purſued, or was that a ſuffi<g ref="char:EOLhyphen"/>cient reaſon becauſe the late Kings and Lords (for ſome rea<g ref="char:EOLhyphen"/>ſon of State then moving thereunto) did not preſently repair them for the many injuries and great loſſes they had ſuſtai<g ref="char:EOLhyphen"/>ned,
+<pb n="32" facs="tcp:37075:21"/> that therefore they ſhould abandon that agreement for Spices, which had they continued as they ought in Policy or common reaſon to have done, this company had not only proſpered and flouriſhed themſelves, but had ſo hindered the Dutches deſigns, as they had never riſen to that height of in<g ref="char:EOLhyphen"/>ſolency they are now at.</p>
+               <p>Adde hereunto the long ſufferance of the Dutches injuri<g ref="char:EOLhyphen"/>ous proceedings which hath made them ſo inſolent and pe<g ref="char:EOLhyphen"/>remptory in <hi>India,</hi> that they dared before theſe times give Lawes to our people in thoſe Seas, yea, and exact Duties and Cuſtomes in our paſſage thorough the Straights of <hi>Molluc<g ref="char:EOLhyphen"/>ca,</hi> never yet paid by the Engliſh to any Nation; in requi<g ref="char:EOLhyphen"/>tall whereof, your Highneſſe may as well exact a Toll or cuſtome of all the Dutch-ſhips that paſſe through the Nar<g ref="char:EOLhyphen"/>row Seas, to pay a certaine cuſtome for their ſhips, and goods, with much more of equity and right, and but juſtly pay them in their owne kinde, who ſpare us in nothing, whereunto they can pretend any the leaſt ſhew of cuſtome, how unjuſt ſoever.</p>
+               <p>But before I paſſe any further, be pleaſed to obſerve the wilful weakneſſe (or rather neglect) of our Company, when <note place="margin">The Com<g ref="char:EOLhyphen"/>panies wilfull neglect of the Spice-trade into <hi>India,</hi> it ſelf made ma<g ref="char:EOLhyphen"/>nifeſt.</note> they had the one third of all the Spices of the <hi>Mollucca</hi> Iſlands (as I ſaid before) notwithſtanding they had been ma<g ref="char:EOLhyphen"/>ny, and oftentimes ſolicited by their ſervants in <hi>Surrat</hi> and <hi>Muſlapatan,</hi> to ſend a large proportion of thoſe ſpices into thoſe Northern parts of <hi>India, Perſia,</hi> &amp;c. where they would have yeilded as much money, or more, than in <hi>England,</hi> which again reinveſted in Indicoe and other Commodities, would, after one yeares forbearance in <hi>India,</hi> have yeilded here at leaſt three for one, and have excuſed the ſending out 100 thouſand pounds a year, ſometimes in treaſure; yet they would never be perſwaded thereunto, as appeares by the fol<g ref="char:EOLhyphen"/>lowing eſtimate.</p>
+               <pb n="33" facs="tcp:37075:21"/>
+               <p>
+                  <note place="margin">I ſold of theſe Commodities at the ſaid pri<g ref="char:EOLhyphen"/>ces my ſelf in <hi>Surrat,</hi> in <hi>An.</hi> 1627.</note>
+                  <table>
+                     <row>
+                        <cell>100 <hi>thouſand pounds of Maces at</hi> 8 d. per <hi>pound amounts to</hi>
+                        </cell>
+                        <cell>3333.</cell>
+                        <cell>06.</cell>
+                        <cell>08</cell>
+                     </row>
+                     <row>
+                        <cell>100 <hi>thouſand pounds of Nutmegs at</hi> 4 d. per <hi>pound is</hi>
+                        </cell>
+                        <cell>1666.</cell>
+                        <cell>13.</cell>
+                        <cell>04</cell>
+                     </row>
+                     <row>
+                        <cell>100 <hi>thouſand pounds of Cloves at</hi> 9 d. per <hi>pound amounts to</hi>
+                        </cell>
+                        <cell>3750.</cell>
+                        <cell>00.</cell>
+                        <cell>00</cell>
+                     </row>
+                     <row>
+                        <cell>300 <hi>thouſand pounds of Spices bought in the</hi> Molluccaes <hi>amounts to</hi>
+                        </cell>
+                        <cell role="total">8750.</cell>
+                        <cell role="total">00.</cell>
+                        <cell role="total">00</cell>
+                     </row>
+                     <row>
+                        <cell role="label" cols="4">
+                           <hi>Which 300 thouſand pounds of Spices, if ſold in</hi> India, <hi>would have yeilded</hi>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell>100 <hi>thouſand pounds of Maces at</hi> 6 s. <hi>the l.</hi>
+                        </cell>
+                        <cell>30000.</cell>
+                        <cell>00.</cell>
+                        <cell>00.</cell>
+                     </row>
+                     <row>
+                        <cell>100 <hi>thouſand pounds of Nutm. at</hi> 5 s. the <hi>l.</hi>
+                        </cell>
+                        <cell>25000.</cell>
+                        <cell>00.</cell>
+                        <cell>00</cell>
+                     </row>
+                     <row>
+                        <cell>100 <hi>thouſand pounds of Cloves at</hi> 7 s. the <hi>l.</hi>
+                        </cell>
+                        <cell>35000.</cell>
+                        <cell>00.</cell>
+                        <cell>00</cell>
+                     </row>
+                     <row>
+                        <cell>300 <hi>thouſand pounds of Spices ſold in</hi> India <hi>for</hi>
+                        </cell>
+                        <cell role="total">90000.</cell>
+                        <cell role="total">00.</cell>
+                        <cell role="total">00</cell>
+                     </row>
+                  </table>
+               </p>
+               <p>Which 90 thouſand pound, reinveſted in Indico, Callicoes, &amp;c. would have made in <hi>England</hi> at leaſt three for one, which is 270 thouſand pounds, from which take 8750 l. their firſt price in the <hi>Mollucca</hi> Iſlands, there remains 261250 l gains towards Charge, Fraight, Cuſtome, and one yeares forbearance &amp;c. in <hi>India.</hi>
+               </p>
+               <p>A faire recompence, if wiſely apprehended, yet would our Company never put the ſame in practice, which to ſome men may ſeem a ſtrange myſtery. But when your Highneſs ſhall conſider, that that Court of Committees are the ſole buyers and ſellers of the Companies Commodities at their owne prices, and long time on rebate, and the benefit they make of the Impoſt they receive back at home, beſides their gaine abroad, will ſoon judge them to have been more intentive on their own private profit, than the generall good of the Ad<g ref="char:EOLhyphen"/>ventures, though bound by oath and conſcience to act for the good of their Truſtees.</p>
+               <p>For the managers of this action, being Aldermen and rich men over-ruling all at their owne pleaſure, and to their own ends, being both Buyers and Sellers of their owne Commo<g ref="char:EOLhyphen"/>dities, did ſo combine together, as to have all theſe Spices
+<pb n="34" facs="tcp:37075:22"/> brought home, that ſo they might buy them up at their own <note place="margin">The Commit<g ref="char:EOLhyphen"/>tees ingroſſe all thoſe Spices to their own pri<g ref="char:EOLhyphen"/>vate ends.</note> prizes, and long time of payment of five ſixe Moneths, to rebate at five eight moneths, to ſupply their own trades, into the Levant Seas and elſewhere, by which Rebates and Impoſts received back, they gained 48 one third, <hi>per</hi> 100. at leaſt, before ever the Commodities went out of <hi>England,</hi> beſides what they gained abroad.</p>
+               <p>It was heretofore obſerved, that ſo ſoon as the Muſcovy <note place="margin">The <hi>Muſcovy</hi> trade and ſtock ruined by the <hi>Turkey Mer<g ref="char:EOLhyphen"/>chants,</hi> being Governors thereof.</note> Company (which had raiſed (in Queen <hi>Elizabeths</hi> time) a great joynt Stock, began to look into the trade for Silk of <hi>Perſia,</hi> brought out of the <hi>Caspian</hi> Sea, and down the River <hi>Volga;</hi> the <hi>Turkey</hi> Merchants cunningly made themſelves chief rulers of that Company, and ſo handled the buſineſſe, that in a few yeares, they not onely wrought a ſtop of that trade of Silk, by the River <hi>Volga,</hi> but even the ruine of the whole Stock, by their improvident way of trade, and over<g ref="char:EOLhyphen"/>great and unneceſſary charges, both abroad and at home, yet hath that trade, ſince the diſſolution of that joynt Stock, been followed by particular men, managing their owne E<g ref="char:EOLhyphen"/>ſtates, thrived and proſpered, before the late difference be<g ref="char:EOLhyphen"/>tween the two States; and ſo may this trade of <hi>India,</hi> &amp;c. if laid open, and free for particular men, to trade upon their owne Stocks, managed by Agents or Conſuls (as is that of the <hi>Turkes</hi> and <hi>Muſcovie</hi> trade) prove very profitable and rich to this Common-wealth, unleſſe it ſhall ſeem good to your Highneſſe to make it a State action, as that which is moſt likely to be moſt honourable, profitable, and advantagi<g ref="char:EOLhyphen"/>ous to this Nation, and Common-wealth, being rightly ma<g ref="char:EOLhyphen"/>naged, by a new and better way of Regulation, and Govern<g ref="char:EOLhyphen"/>ment, than heretofore hath been practiſed at home.</p>
+               <p>But to leave the reſetling of theſe trades to the wiſdome of your Highneſſe and Councell of State, I ſhall humbly preſent <note place="margin">The Commit<g ref="char:EOLhyphen"/>tees work the ruine of <hi>India</hi> trade on pur<g ref="char:EOLhyphen"/>poſe to buy off diſhertned peo<g ref="char:EOLhyphen"/>ples adventures at half their value.</note> unto your Highneſſe ſome other diſhoneſt proceedings, of thoſe Grandees, and managers of this action; who of purpoſe to undervalue the ſame, and diſhearten the Nobility, Gentry, Widdows and Orphans, and other Adventurers, not able to ride out of their Stocks any longer, ſo much, as to ſell of their Adventures, as they did ſome hundreds of thouſand pounds,
+<pb n="35" facs="tcp:37075:22"/> at 45. and 50. <hi>per cent.</hi> loſſe to themſelves; and to this end, they imploy Mr. <hi>Thomas Smithwick,</hi> and others then Brokers upon the Exchange; But the ſaid <hi>Smithwicke,</hi> underſtanding their deſignes and purpoſes, did ſerve himſelfe and friends al<g ref="char:EOLhyphen"/>ſo by buying many Adventures of the Nobility, Gentry, &amp;c. in hopes that being now become Adventurers, they might be<g ref="char:EOLhyphen"/>come alſo Committees, and have an eye over the managing of that action in a better and more profitable way, than here<g ref="char:EOLhyphen"/>tofore, and which indeed he did labour with much earneſt<g ref="char:EOLhyphen"/>neſſe and complaints, both to the late King, and Lords of his privy Councell, but all in vaine, for they having the Generall purſe, at command, and a Lord Keeper fitting their owne humour, ſpared not as I ſaid freely to bribe at Court, to ſtifle, and ſuppreſſe all complaints, and in the end, ſo or<g ref="char:EOLhyphen"/>dered the buſineſſe, as he, and others were ruined and un<g ref="char:EOLhyphen"/>done in the purſuit thereof.</p>
+               <p>Beſides this deſigne of buying up of Adventures at under values, a moſt unjuſt and diſhoneſt courſe, and breach of Oach and truſt, they had a farther intention, which was, that <note place="margin">And gaine the Compoſition with the Dutch, to themſelves, a moſt diſho<g ref="char:EOLhyphen"/>neſt breach of truſt.</note> having by this meanes, got all, or the greater part of the Stock into a few of their owne, and confederates hands; they would then preſſe his Majeſty and Lords, in a more earneſt and importunate way then hertofore, to conclude the diffe<g ref="char:EOLhyphen"/>rence with the Dutch, and ſo gaine that compoſition alſo to their owne advantage; all which will appeare by their owne accompts and papers, if duly examined.</p>
+               <p>As to the trades of <hi>China</hi> and <hi>Japon,</hi> I can ſay little to the particular Commodities either carryed thither, or brought <note place="margin">China and Ja<g ref="char:EOLhyphen"/>pon have been to the Protu<g ref="char:EOLhyphen"/>gals, and Dutch very rich Trades.</note> thence, more than in the Generall. I am aſcertained the <hi>Portugalls</hi> heretofore, and the Dutch now have, and doe make extraordinary profit, firſt between <hi>India,</hi> and <hi>China,</hi> but eſpecially between <hi>China</hi> and <hi>Japon,</hi> and thence back to <hi>Chi<g ref="char:EOLhyphen"/>na,</hi> and thence again into <hi>India;</hi> and if the Dutch them<g ref="char:EOLhyphen"/>ſelves do not vainly boaſt, they do carry many thouſands of Broad-cloaths into <hi>China</hi> and <hi>Japon:</hi> it is likely we alſo might have made uſe of thoſe ſo rich trades, had the mana<g ref="char:EOLhyphen"/>gers of that Action heretofore been willing to advance that trade to its beſt of profit.</p>
+               <pb n="36" facs="tcp:37075:23"/>
+               <p>All which, notwithſtanding thoſe ſo rich trades of <hi>India,</hi> &amp;c. are no way to be eſteemed the worſt, becauſe the managers thereof have not, made them ſo profitable to this Common<g ref="char:EOLhyphen"/>wealth, as they have been to the Portugall heretofore, and are now to the Dutch, and may yet be unto us, if well regu<g ref="char:EOLhyphen"/>lated under a State-protection hereafter, as the other have been, and are to this day.</p>
+               <p>Having thus preſented to your Highneſſe, the evil affecti<g ref="char:EOLhyphen"/>on, wilfull miſcarriages, and improvident courſes, to the rui<g ref="char:EOLhyphen"/>ning, if not utter ſuppreſſing of theſe ſo rich and profitable trades of <hi>India, Perſia, Arabia, China</hi> and <hi>Japon,</hi> practiſed by that Court of Committees, who have had the managing thereof theſe many yeaers; I ſhall humbly leave theſe to your Highneſs's and Council of States better judgements, for the future regulating thereof, in a more profitable way than hitherto, either by making it a State-action, as the beſt, and <note place="margin">The beſt way to make the Trade of India profitable to this Nation, is, to make it State-action.</note> moſt aſſured way of benefit and honour to the Nation, or by laying it open and free for all men, that have a minde and meanes to proſecute thoſe Trades, being regulated, and or<g ref="char:EOLhyphen"/>dered, as are the Turkey and Muſcovy Trades, wherein eve<g ref="char:EOLhyphen"/>ry man is Maſter of his owne goods, both abroad and at home, aad hath the ordering and managing thereof at his pleaſure, and not tyed up to the many inconveniences of Joynt Stocks, and the diſhoneſt ends of ſome particular o<g ref="char:EOLhyphen"/>ver-ruling Committees, whoſe private Intereſt, and ſurrep<g ref="char:EOLhyphen"/>titious wayes of Buying and Selling their owne goods, to themſelves, break through all Oaths and breach of Truſt, even to the ruine of the Adventurers ſtock, though to their owne particular profit enough advantagious; experience having told us, that joynt Stocks (as I ſaid before) are but the worſt of Monopolies, and meer Cheats, both to the State, and Ad<g ref="char:EOLhyphen"/>venturers, and of all others, this of the <hi>Eaſt Indies</hi> the greateſt.</p>
+               <p>But if your Highneſſe can renew the former Contracts made with the King of <hi>Perſia,</hi> 1622. and 1627. and enlarge that Trade, to the bringing all, or the greater part of the Silke of <hi>Perſia,</hi> by way of <hi>India,</hi> and compell the Dutch to pay the one halfe of their Cuſtomes to your Highneſſe, I
+<pb n="37" facs="tcp:37075:23"/> dare be bold, as will many others that have been in <hi>India,</hi> to <note place="margin">Spice Iſlands, and the Con<g ref="char:EOLhyphen"/>tract renewed with the King of Perſia, for Silke, will make a rich trade.</note> lay down a courſe and way of Trade, that one Million of Stock and Shipping, to be ſent out in three years, ſhall re<g ref="char:EOLhyphen"/>turne its firſt principall, with one million of pounds advance, before the end of two years &amp; a half, or three at moſt, &amp; then every yeare after, one million of pounds, all charges borne; which Trade alone, in few yeares will increaſe your High<g ref="char:EOLhyphen"/>neſſe Exchequer, and the Stock of the Nation, to ſuch a large proportion, as will enable it to carry all Trades, and what elſe before them, in deſpight of all oppoſition.</p>
+               <p>I could ſay much more, in aggravation of the many and horrid injuries the Nation have received from the Dutch, but much more of the heavy loſſes, and wrongfull abuſes, which ſome of that Court of Committees have occaſioned; who over-ruling the more honeſt party by multiplicity of voices, and carrying all things to their owne ends, as profeſt enemies to that Trade of <hi>India,</hi> which ſo long as managed by ſuch, ſhall never thrive, nor be worthy the name of an <note place="margin">A joynt ſtock by Turkey Merchants ma<g ref="char:EOLhyphen"/>naged, never thrive.</note> 
+                  <hi>Eaſt India</hi> Trade; ſuch as the Portugalls heretofore, and now the Dutch make of it, witneſſe the large returnes theſe latter have made thence every yeare, of value at leaſt 11. or 1200. thouſand pounds, beſides their large Stock remaining in <hi>India,</hi> and their many and rich Plantations they have there, to be valued at many Millions of pounds, all which they have obtained by the managers of our Stocks wilfull neglect, as much unwilling our State ſhould have any inſight, command, or intereſt in any of their Plantations; as not willing the action it ſelfe ſhoud thrive, and grow rich, for the reaſons laid down in my foregoing diſcourſe, which I hope will ſatisfie your Highneſſe and Councel of State, as to the reality of the things therein propoſed, together with the neceſſity of making it a State action, which will be the beſt, moſt ſafe, and profitableſt way, for the honour and welfare of the Nation, being ſtrengthned by your Highneſſe Counte<g ref="char:EOLhyphen"/>nance and protection, will put ſuch terrour into all people, both farre and neere, as they will not dare to moleſt, or trou<g ref="char:EOLhyphen"/>ble our juſt and lawfull proceedings, much leſſe offer any re<g ref="char:EOLhyphen"/>all wrong or injuries to the Nation as heretofore. When
+<pb n="38" facs="tcp:37075:24"/> protection was wanting to the Company, againſt the barbarous inhumanity of our falſe friends; as for the Por<g ref="char:EOLhyphen"/>tugale, a declared enemy, we were able to right our ſelves on all occaſions, had our Company ſought to plant them<g ref="char:EOLhyphen"/>ſelves on the <hi>Molucca</hi> and <hi>Banda</hi> Iſlands, as they ought to have done in the firſt place, as did the Dutch, and then to have beaten their way for Trade, into the North parts of <hi>India.</hi> The maine (if not wilfull) errour of our Company, in the Infancy of that Trade, ſo had we been Maſters of all thoſe forementioned rich Trades, to the great advancement of this Common-wealth, and Nation, which now may ſeem irrevocably loſt, to the great ſhame and diſhonour of this Common-wealth.</p>
+               <p>To conclude, thoſe rich Trades of <hi>India, Perſia, Arabia, China,</hi> and <hi>Japon,</hi> did never appeare in their true luſtre and ſplendor, ſo much as in the time the Portugals had the ſole Command of thoſe trades in their owne hands, before either we or the Dutch had made any diſcovery thereof, when they had every yeare (if no Ships miſcarryed) at leaſt two Millions of pounds returned home on regiſter, which paid cuſtomes to the King at high rates, beſides Pearles, Diamonds, and other pretious ſtones of great value, which came unregiſtred, and paid no Cuſtomes. Of all which, the Dutch have endeavou<g ref="char:EOLhyphen"/>red to make themſelves Maſters, and had accompliſhed, had not the Engliſh interpoſed a pedling trade (for other I cannot call it) whom they durſt not totally oppreſſe and beat out of thoſe Seas, however laboured by all the meanes they could invent, and the more upon our Companies neglect of Trade, which gave them the advantage of making them ſo rich, and powerfull, as to dare to conteſt with your Highneſſe and State here at home, in hopes to have ſwallowed up the whole Nation in a Conqueſt, and ſo have made themſelves the abſoluteſt Commanders by Sea, that ever yet the world knew; and ſo have brought into ſubjection, not onely the Eaſt and Weſt <hi>Indies,</hi> but even all other Trades throughtout the whole world; but being beaten into better behaviour by your Highneſſe power by Sea, it is hoped your Highneſſe may in time worke the ſame for our Nation, being vigilant and care<g ref="char:EOLhyphen"/>full,
+<pb n="39" facs="tcp:37075:24"/> to keep thoſe people under hatches, that they riſe not a<g ref="char:EOLhyphen"/>gaine to be able to hinder your Highneſſes proceedings to that purpoſe; the true intereſt of this Nation being at this time to encreaſe its Trade, the onely meanes of making a Na<g ref="char:EOLhyphen"/>tion rich, and powerfull, and able to give Lawe; by Sea to all the world, as being ſo well ſeated, and fortified by Nature in the Seas, that having a commanding Navy as your High<g ref="char:EOLhyphen"/>neſſe hath, and may have, able to ſuppreſſe all other neigh<g ref="char:EOLhyphen"/>bouring Nations forces by Sea, before they grow over-po<g ref="char:EOLhyphen"/>werfull, and able to give another encounter to yours, by com<g ref="char:EOLhyphen"/>bining together to its ruine. By other meanes (except from Heaven) it is impoſſible the world can offend us, as not able to bring an Army into our Land, but by wooden Horſes, which are, and muſt be our chiefeſt care to maintaine in their full forces; and able, if not to deſtroy all others, yet to de<g ref="char:EOLhyphen"/>fend the Nation it ſelfe in ſafety.</p>
+            </div>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:37075:25"/>
+            <pb facs="tcp:37075:25"/>
+         </div>
+      </body>
+   </text>
+</TEI>
